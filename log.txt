@@ -1,0 +1,2142 @@
+UPDATE → itemSpawned x=10 y=0
+UPDATE → itemMove x=10 y=1
+CHECK → playerX=20 playerY=19 itemX=10 itemY=1
+UPDATE → itemMove x=10 y=2
+CHECK → playerX=20 playerY=19 itemX=10 itemY=2
+UPDATE → itemMove x=10 y=3
+CHECK → playerX=20 playerY=19 itemX=10 itemY=3
+UPDATE → itemMove x=10 y=4
+CHECK → playerX=20 playerY=19 itemX=10 itemY=4
+UPDATE → itemMove x=10 y=5
+CHECK → playerX=20 playerY=19 itemX=10 itemY=5
+UPDATE → itemMove x=10 y=6
+CHECK → playerX=20 playerY=19 itemX=10 itemY=6
+UPDATE → itemMove x=10 y=7
+CHECK → playerX=20 playerY=19 itemX=10 itemY=7
+UPDATE → itemMove x=10 y=8
+CHECK → playerX=20 playerY=19 itemX=10 itemY=8
+INPUT → key=LeftArrow playerX=20 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=10 y=9
+CHECK → playerX=19 playerY=19 itemX=10 itemY=9
+UPDATE → itemMove x=10 y=10
+CHECK → playerX=19 playerY=19 itemX=10 itemY=10
+UPDATE → itemMove x=10 y=11
+CHECK → playerX=19 playerY=19 itemX=10 itemY=11
+INPUT → key=LeftArrow playerX=19 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=10 y=12
+CHECK → playerX=18 playerY=19 itemX=10 itemY=12
+UPDATE → itemMove x=10 y=13
+CHECK → playerX=18 playerY=19 itemX=10 itemY=13
+INPUT → key=LeftArrow playerX=18 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=10 y=14
+CHECK → playerX=17 playerY=19 itemX=10 itemY=14
+UPDATE → itemMove x=10 y=15
+CHECK → playerX=17 playerY=19 itemX=10 itemY=15
+INPUT → key=LeftArrow playerX=17 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=10 y=16
+CHECK → playerX=16 playerY=19 itemX=10 itemY=16
+UPDATE → itemMove x=10 y=17
+CHECK → playerX=16 playerY=19 itemX=10 itemY=17
+INPUT → key=LeftArrow playerX=16 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=10 y=18
+CHECK → playerX=15 playerY=19 itemX=10 itemY=18
+UPDATE → itemMove x=10 y=19
+CHECK → playerX=15 playerY=19 itemX=10 itemY=19
+UPDATE → itemMove x=10 y=20
+CHECK → playerX=15 playerY=19 itemX=10 itemY=20
+UPDATE → itemSpawned x=35 y=0
+UPDATE → itemMove x=35 y=1
+CHECK → playerX=15 playerY=19 itemX=35 itemY=1
+UPDATE → itemMove x=35 y=2
+CHECK → playerX=15 playerY=19 itemX=35 itemY=2
+UPDATE → itemMove x=35 y=3
+CHECK → playerX=15 playerY=19 itemX=35 itemY=3
+UPDATE → itemMove x=35 y=4
+CHECK → playerX=15 playerY=19 itemX=35 itemY=4
+UPDATE → itemMove x=35 y=5
+CHECK → playerX=15 playerY=19 itemX=35 itemY=5
+INPUT → key=RightArrow playerX=15 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=35 y=6
+CHECK → playerX=16 playerY=19 itemX=35 itemY=6
+UPDATE → itemMove x=35 y=7
+CHECK → playerX=16 playerY=19 itemX=35 itemY=7
+UPDATE → itemMove x=35 y=8
+CHECK → playerX=16 playerY=19 itemX=35 itemY=8
+UPDATE → itemMove x=35 y=9
+CHECK → playerX=16 playerY=19 itemX=35 itemY=9
+INPUT → key=RightArrow playerX=16 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=35 y=10
+CHECK → playerX=17 playerY=19 itemX=35 itemY=10
+UPDATE → itemMove x=35 y=11
+CHECK → playerX=17 playerY=19 itemX=35 itemY=11
+UPDATE → itemMove x=35 y=12
+CHECK → playerX=17 playerY=19 itemX=35 itemY=12
+UPDATE → itemMove x=35 y=13
+CHECK → playerX=17 playerY=19 itemX=35 itemY=13
+UPDATE → itemMove x=35 y=14
+CHECK → playerX=17 playerY=19 itemX=35 itemY=14
+UPDATE → itemMove x=35 y=15
+CHECK → playerX=17 playerY=19 itemX=35 itemY=15
+UPDATE → itemMove x=35 y=16
+CHECK → playerX=17 playerY=19 itemX=35 itemY=16
+UPDATE → itemMove x=35 y=17
+CHECK → playerX=17 playerY=19 itemX=35 itemY=17
+UPDATE → itemMove x=35 y=18
+CHECK → playerX=17 playerY=19 itemX=35 itemY=18
+UPDATE → itemMove x=35 y=19
+CHECK → playerX=17 playerY=19 itemX=35 itemY=19
+UPDATE → itemMove x=35 y=20
+CHECK → playerX=17 playerY=19 itemX=35 itemY=20
+UPDATE → itemSpawned x=25 y=0
+UPDATE → itemMove x=25 y=1
+CHECK → playerX=17 playerY=19 itemX=25 itemY=1
+UPDATE → itemMove x=25 y=2
+CHECK → playerX=17 playerY=19 itemX=25 itemY=2
+UPDATE → itemMove x=25 y=3
+CHECK → playerX=17 playerY=19 itemX=25 itemY=3
+UPDATE → itemMove x=25 y=4
+CHECK → playerX=17 playerY=19 itemX=25 itemY=4
+INPUT → key=RightArrow playerX=17 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=25 y=5
+CHECK → playerX=18 playerY=19 itemX=25 itemY=5
+UPDATE → itemMove x=25 y=6
+CHECK → playerX=18 playerY=19 itemX=25 itemY=6
+INPUT → key=RightArrow playerX=18 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=25 y=7
+CHECK → playerX=19 playerY=19 itemX=25 itemY=7
+UPDATE → itemMove x=25 y=8
+CHECK → playerX=19 playerY=19 itemX=25 itemY=8
+UPDATE → itemMove x=25 y=9
+CHECK → playerX=19 playerY=19 itemX=25 itemY=9
+UPDATE → itemMove x=25 y=10
+CHECK → playerX=19 playerY=19 itemX=25 itemY=10
+INPUT → key=RightArrow playerX=19 playerY=19
+MOVE → playerX=20 playerY=19
+UPDATE → itemMove x=25 y=11
+CHECK → playerX=20 playerY=19 itemX=25 itemY=11
+UPDATE → itemMove x=25 y=12
+CHECK → playerX=20 playerY=19 itemX=25 itemY=12
+INPUT → key=RightArrow playerX=20 playerY=19
+MOVE → playerX=21 playerY=19
+UPDATE → itemMove x=25 y=13
+CHECK → playerX=21 playerY=19 itemX=25 itemY=13
+UPDATE → itemMove x=25 y=14
+CHECK → playerX=21 playerY=19 itemX=25 itemY=14
+UPDATE → itemMove x=25 y=15
+CHECK → playerX=21 playerY=19 itemX=25 itemY=15
+INPUT → key=RightArrow playerX=21 playerY=19
+MOVE → playerX=22 playerY=19
+UPDATE → itemMove x=25 y=16
+CHECK → playerX=22 playerY=19 itemX=25 itemY=16
+UPDATE → itemMove x=25 y=17
+CHECK → playerX=22 playerY=19 itemX=25 itemY=17
+UPDATE → itemMove x=25 y=18
+CHECK → playerX=22 playerY=19 itemX=25 itemY=18
+INPUT → key=RightArrow playerX=22 playerY=19
+MOVE → playerX=23 playerY=19
+UPDATE → itemMove x=25 y=19
+CHECK → playerX=23 playerY=19 itemX=25 itemY=19
+UPDATE → itemMove x=25 y=20
+CHECK → playerX=23 playerY=19 itemX=25 itemY=20
+UPDATE → itemSpawned x=10 y=0
+INPUT → key=RightArrow playerX=23 playerY=19
+MOVE → playerX=24 playerY=19
+UPDATE → itemMove x=10 y=1
+CHECK → playerX=24 playerY=19 itemX=10 itemY=1
+UPDATE → itemMove x=10 y=2
+CHECK → playerX=24 playerY=19 itemX=10 itemY=2
+UPDATE → itemMove x=10 y=3
+CHECK → playerX=24 playerY=19 itemX=10 itemY=3
+UPDATE → itemMove x=10 y=4
+CHECK → playerX=24 playerY=19 itemX=10 itemY=4
+INPUT → key=LeftArrow playerX=24 playerY=19
+MOVE → playerX=23 playerY=19
+UPDATE → itemMove x=10 y=5
+CHECK → playerX=23 playerY=19 itemX=10 itemY=5
+UPDATE → itemMove x=10 y=6
+CHECK → playerX=23 playerY=19 itemX=10 itemY=6
+UPDATE → itemMove x=10 y=7
+CHECK → playerX=23 playerY=19 itemX=10 itemY=7
+UPDATE → itemMove x=10 y=8
+CHECK → playerX=23 playerY=19 itemX=10 itemY=8
+UPDATE → itemMove x=10 y=9
+CHECK → playerX=23 playerY=19 itemX=10 itemY=9
+UPDATE → itemMove x=10 y=10
+CHECK → playerX=23 playerY=19 itemX=10 itemY=10
+INPUT → key=LeftArrow playerX=23 playerY=19
+MOVE → playerX=22 playerY=19
+UPDATE → itemMove x=10 y=11
+CHECK → playerX=22 playerY=19 itemX=10 itemY=11
+UPDATE → itemMove x=10 y=12
+CHECK → playerX=22 playerY=19 itemX=10 itemY=12
+INPUT → key=LeftArrow playerX=22 playerY=19
+MOVE → playerX=21 playerY=19
+UPDATE → itemMove x=10 y=13
+CHECK → playerX=21 playerY=19 itemX=10 itemY=13
+UPDATE → itemMove x=10 y=14
+CHECK → playerX=21 playerY=19 itemX=10 itemY=14
+UPDATE → itemMove x=10 y=15
+CHECK → playerX=21 playerY=19 itemX=10 itemY=15
+UPDATE → itemMove x=10 y=16
+CHECK → playerX=21 playerY=19 itemX=10 itemY=16
+INPUT → key=LeftArrow playerX=21 playerY=19
+MOVE → playerX=20 playerY=19
+UPDATE → itemMove x=10 y=17
+CHECK → playerX=20 playerY=19 itemX=10 itemY=17
+UPDATE → itemMove x=10 y=18
+CHECK → playerX=20 playerY=19 itemX=10 itemY=18
+UPDATE → itemMove x=10 y=19
+CHECK → playerX=20 playerY=19 itemX=10 itemY=19
+UPDATE → itemMove x=10 y=20
+CHECK → playerX=20 playerY=19 itemX=10 itemY=20
+UPDATE → itemSpawned x=25 y=0
+UPDATE → itemMove x=25 y=1
+CHECK → playerX=20 playerY=19 itemX=25 itemY=1
+UPDATE → itemMove x=25 y=2
+CHECK → playerX=20 playerY=19 itemX=25 itemY=2
+INPUT → key=LeftArrow playerX=20 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=25 y=3
+CHECK → playerX=19 playerY=19 itemX=25 itemY=3
+UPDATE → itemMove x=25 y=4
+CHECK → playerX=19 playerY=19 itemX=25 itemY=4
+UPDATE → itemMove x=25 y=5
+CHECK → playerX=19 playerY=19 itemX=25 itemY=5
+INPUT → key=RightArrow playerX=19 playerY=19
+MOVE → playerX=20 playerY=19
+UPDATE → itemMove x=25 y=6
+CHECK → playerX=20 playerY=19 itemX=25 itemY=6
+UPDATE → itemMove x=25 y=7
+CHECK → playerX=20 playerY=19 itemX=25 itemY=7
+UPDATE → itemMove x=25 y=8
+CHECK → playerX=20 playerY=19 itemX=25 itemY=8
+INPUT → key=RightArrow playerX=20 playerY=19
+MOVE → playerX=21 playerY=19
+UPDATE → itemMove x=25 y=9
+CHECK → playerX=21 playerY=19 itemX=25 itemY=9
+UPDATE → itemMove x=25 y=10
+CHECK → playerX=21 playerY=19 itemX=25 itemY=10
+INPUT → key=RightArrow playerX=21 playerY=19
+MOVE → playerX=22 playerY=19
+UPDATE → itemMove x=25 y=11
+CHECK → playerX=22 playerY=19 itemX=25 itemY=11
+UPDATE → itemMove x=25 y=12
+CHECK → playerX=22 playerY=19 itemX=25 itemY=12
+INPUT → key=RightArrow playerX=22 playerY=19
+MOVE → playerX=23 playerY=19
+UPDATE → itemMove x=25 y=13
+CHECK → playerX=23 playerY=19 itemX=25 itemY=13
+UPDATE → itemMove x=25 y=14
+CHECK → playerX=23 playerY=19 itemX=25 itemY=14
+UPDATE → itemMove x=25 y=15
+CHECK → playerX=23 playerY=19 itemX=25 itemY=15
+UPDATE → itemMove x=25 y=16
+CHECK → playerX=23 playerY=19 itemX=25 itemY=16
+INPUT → key=RightArrow playerX=23 playerY=19
+MOVE → playerX=24 playerY=19
+UPDATE → itemMove x=25 y=17
+CHECK → playerX=24 playerY=19 itemX=25 itemY=17
+UPDATE → itemMove x=25 y=18
+CHECK → playerX=24 playerY=19 itemX=25 itemY=18
+INPUT → key=RightArrow playerX=24 playerY=19
+MOVE → playerX=25 playerY=19
+UPDATE → itemMove x=25 y=19
+CHECK → playerX=25 playerY=19 itemX=25 itemY=19
+COLLISION → score=1
+UPDATE → itemSpawned x=15 y=0
+UPDATE → itemMove x=15 y=1
+CHECK → playerX=25 playerY=19 itemX=15 itemY=1
+UPDATE → itemMove x=15 y=2
+CHECK → playerX=25 playerY=19 itemX=15 itemY=2
+UPDATE → itemMove x=15 y=3
+CHECK → playerX=25 playerY=19 itemX=15 itemY=3
+UPDATE → itemMove x=15 y=4
+CHECK → playerX=25 playerY=19 itemX=15 itemY=4
+UPDATE → itemMove x=15 y=5
+CHECK → playerX=25 playerY=19 itemX=15 itemY=5
+INPUT → key=LeftArrow playerX=25 playerY=19
+MOVE → playerX=24 playerY=19
+UPDATE → itemMove x=15 y=6
+CHECK → playerX=24 playerY=19 itemX=15 itemY=6
+UPDATE → itemMove x=15 y=7
+CHECK → playerX=24 playerY=19 itemX=15 itemY=7
+UPDATE → itemMove x=15 y=8
+CHECK → playerX=24 playerY=19 itemX=15 itemY=8
+INPUT → key=LeftArrow playerX=24 playerY=19
+MOVE → playerX=23 playerY=19
+UPDATE → itemMove x=15 y=9
+CHECK → playerX=23 playerY=19 itemX=15 itemY=9
+UPDATE → itemMove x=15 y=10
+CHECK → playerX=23 playerY=19 itemX=15 itemY=10
+INPUT → key=LeftArrow playerX=23 playerY=19
+MOVE → playerX=22 playerY=19
+UPDATE → itemMove x=15 y=11
+CHECK → playerX=22 playerY=19 itemX=15 itemY=11
+UPDATE → itemMove x=15 y=12
+CHECK → playerX=22 playerY=19 itemX=15 itemY=12
+INPUT → key=LeftArrow playerX=22 playerY=19
+MOVE → playerX=21 playerY=19
+UPDATE → itemMove x=15 y=13
+CHECK → playerX=21 playerY=19 itemX=15 itemY=13
+UPDATE → itemMove x=15 y=14
+CHECK → playerX=21 playerY=19 itemX=15 itemY=14
+INPUT → key=LeftArrow playerX=21 playerY=19
+MOVE → playerX=20 playerY=19
+UPDATE → itemMove x=15 y=15
+CHECK → playerX=20 playerY=19 itemX=15 itemY=15
+UPDATE → itemMove x=15 y=16
+CHECK → playerX=20 playerY=19 itemX=15 itemY=16
+INPUT → key=LeftArrow playerX=20 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=15 y=17
+CHECK → playerX=19 playerY=19 itemX=15 itemY=17
+UPDATE → itemMove x=15 y=18
+CHECK → playerX=19 playerY=19 itemX=15 itemY=18
+UPDATE → itemMove x=15 y=19
+CHECK → playerX=19 playerY=19 itemX=15 itemY=19
+INPUT → key=LeftArrow playerX=19 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=15 y=20
+CHECK → playerX=18 playerY=19 itemX=15 itemY=20
+UPDATE → itemSpawned x=11 y=0
+UPDATE → itemMove x=11 y=1
+CHECK → playerX=18 playerY=19 itemX=11 itemY=1
+UPDATE → itemMove x=11 y=2
+CHECK → playerX=18 playerY=19 itemX=11 itemY=2
+UPDATE → itemMove x=11 y=3
+CHECK → playerX=18 playerY=19 itemX=11 itemY=3
+UPDATE → itemMove x=11 y=4
+CHECK → playerX=18 playerY=19 itemX=11 itemY=4
+INPUT → key=LeftArrow playerX=18 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=11 y=5
+CHECK → playerX=17 playerY=19 itemX=11 itemY=5
+UPDATE → itemMove x=11 y=6
+CHECK → playerX=17 playerY=19 itemX=11 itemY=6
+INPUT → key=LeftArrow playerX=17 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=11 y=7
+CHECK → playerX=16 playerY=19 itemX=11 itemY=7
+UPDATE → itemMove x=11 y=8
+CHECK → playerX=16 playerY=19 itemX=11 itemY=8
+INPUT → key=LeftArrow playerX=16 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=11 y=9
+CHECK → playerX=15 playerY=19 itemX=11 itemY=9
+UPDATE → itemMove x=11 y=10
+CHECK → playerX=15 playerY=19 itemX=11 itemY=10
+INPUT → key=LeftArrow playerX=15 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=11 y=11
+CHECK → playerX=14 playerY=19 itemX=11 itemY=11
+UPDATE → itemMove x=11 y=12
+CHECK → playerX=14 playerY=19 itemX=11 itemY=12
+INPUT → key=LeftArrow playerX=14 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=11 y=13
+CHECK → playerX=13 playerY=19 itemX=11 itemY=13
+UPDATE → itemMove x=11 y=14
+CHECK → playerX=13 playerY=19 itemX=11 itemY=14
+INPUT → key=LeftArrow playerX=13 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=11 y=15
+CHECK → playerX=12 playerY=19 itemX=11 itemY=15
+UPDATE → itemMove x=11 y=16
+CHECK → playerX=12 playerY=19 itemX=11 itemY=16
+INPUT → key=LeftArrow playerX=12 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=11 y=17
+CHECK → playerX=11 playerY=19 itemX=11 itemY=17
+UPDATE → itemMove x=11 y=18
+CHECK → playerX=11 playerY=19 itemX=11 itemY=18
+INPUT → key=LeftArrow playerX=11 playerY=19
+MOVE → playerX=10 playerY=19
+UPDATE → itemMove x=11 y=19
+CHECK → playerX=10 playerY=19 itemX=11 itemY=19
+UPDATE → itemMove x=11 y=20
+CHECK → playerX=10 playerY=19 itemX=11 itemY=20
+UPDATE → itemSpawned x=34 y=0
+UPDATE → itemMove x=34 y=1
+CHECK → playerX=10 playerY=19 itemX=34 itemY=1
+UPDATE → itemMove x=34 y=2
+CHECK → playerX=10 playerY=19 itemX=34 itemY=2
+UPDATE → itemMove x=34 y=3
+CHECK → playerX=10 playerY=19 itemX=34 itemY=3
+UPDATE → itemMove x=34 y=4
+CHECK → playerX=10 playerY=19 itemX=34 itemY=4
+INPUT → key=RightArrow playerX=10 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=34 y=5
+CHECK → playerX=11 playerY=19 itemX=34 itemY=5
+UPDATE → itemMove x=34 y=6
+CHECK → playerX=11 playerY=19 itemX=34 itemY=6
+UPDATE → itemMove x=34 y=7
+CHECK → playerX=11 playerY=19 itemX=34 itemY=7
+UPDATE → itemMove x=34 y=8
+CHECK → playerX=11 playerY=19 itemX=34 itemY=8
+INPUT → key=RightArrow playerX=11 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=34 y=9
+CHECK → playerX=12 playerY=19 itemX=34 itemY=9
+UPDATE → itemMove x=34 y=10
+CHECK → playerX=12 playerY=19 itemX=34 itemY=10
+UPDATE → itemMove x=34 y=11
+CHECK → playerX=12 playerY=19 itemX=34 itemY=11
+UPDATE → itemMove x=34 y=12
+CHECK → playerX=12 playerY=19 itemX=34 itemY=12
+UPDATE → itemMove x=34 y=13
+CHECK → playerX=12 playerY=19 itemX=34 itemY=13
+INPUT → key=RightArrow playerX=12 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=34 y=14
+CHECK → playerX=13 playerY=19 itemX=34 itemY=14
+INPUT → key=RightArrow playerX=13 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=34 y=15
+CHECK → playerX=14 playerY=19 itemX=34 itemY=15
+INPUT → key=RightArrow playerX=14 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=34 y=16
+CHECK → playerX=15 playerY=19 itemX=34 itemY=16
+INPUT → key=RightArrow playerX=15 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=34 y=17
+CHECK → playerX=16 playerY=19 itemX=34 itemY=17
+INPUT → key=RightArrow playerX=16 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=34 y=18
+CHECK → playerX=17 playerY=19 itemX=34 itemY=18
+INPUT → key=RightArrow playerX=17 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=34 y=19
+CHECK → playerX=18 playerY=19 itemX=34 itemY=19
+INPUT → key=RightArrow playerX=18 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=34 y=20
+CHECK → playerX=19 playerY=19 itemX=34 itemY=20
+UPDATE → itemSpawned x=10 y=0
+UPDATE → itemMove x=10 y=1
+CHECK → playerX=19 playerY=19 itemX=10 itemY=1
+UPDATE → itemMove x=10 y=2
+CHECK → playerX=19 playerY=19 itemX=10 itemY=2
+UPDATE → itemMove x=10 y=3
+CHECK → playerX=19 playerY=19 itemX=10 itemY=3
+UPDATE → itemMove x=10 y=4
+CHECK → playerX=19 playerY=19 itemX=10 itemY=4
+INPUT → key=LeftArrow playerX=19 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=10 y=5
+CHECK → playerX=18 playerY=19 itemX=10 itemY=5
+UPDATE → itemMove x=10 y=6
+CHECK → playerX=18 playerY=19 itemX=10 itemY=6
+UPDATE → itemMove x=10 y=7
+CHECK → playerX=18 playerY=19 itemX=10 itemY=7
+INPUT → key=LeftArrow playerX=18 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=10 y=8
+CHECK → playerX=17 playerY=19 itemX=10 itemY=8
+UPDATE → itemMove x=10 y=9
+CHECK → playerX=17 playerY=19 itemX=10 itemY=9
+INPUT → key=LeftArrow playerX=17 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=10 y=10
+CHECK → playerX=16 playerY=19 itemX=10 itemY=10
+UPDATE → itemMove x=10 y=11
+CHECK → playerX=16 playerY=19 itemX=10 itemY=11
+INPUT → key=LeftArrow playerX=16 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=10 y=12
+CHECK → playerX=15 playerY=19 itemX=10 itemY=12
+INPUT → key=LeftArrow playerX=15 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=10 y=13
+CHECK → playerX=14 playerY=19 itemX=10 itemY=13
+UPDATE → itemMove x=10 y=14
+CHECK → playerX=14 playerY=19 itemX=10 itemY=14
+INPUT → key=LeftArrow playerX=14 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=10 y=15
+CHECK → playerX=13 playerY=19 itemX=10 itemY=15
+UPDATE → itemMove x=10 y=16
+CHECK → playerX=13 playerY=19 itemX=10 itemY=16
+INPUT → key=LeftArrow playerX=13 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=10 y=17
+CHECK → playerX=12 playerY=19 itemX=10 itemY=17
+UPDATE → itemMove x=10 y=18
+CHECK → playerX=12 playerY=19 itemX=10 itemY=18
+INPUT → key=LeftArrow playerX=12 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=10 y=19
+CHECK → playerX=11 playerY=19 itemX=10 itemY=19
+UPDATE → itemMove x=10 y=20
+CHECK → playerX=11 playerY=19 itemX=10 itemY=20
+UPDATE → itemSpawned x=23 y=0
+UPDATE → itemMove x=23 y=1
+CHECK → playerX=11 playerY=19 itemX=23 itemY=1
+INPUT → key=LeftArrow playerX=11 playerY=19
+MOVE → playerX=10 playerY=19
+UPDATE → itemMove x=23 y=2
+CHECK → playerX=10 playerY=19 itemX=23 itemY=2
+UPDATE → itemMove x=23 y=3
+CHECK → playerX=10 playerY=19 itemX=23 itemY=3
+UPDATE → itemMove x=23 y=4
+CHECK → playerX=10 playerY=19 itemX=23 itemY=4
+INPUT → key=RightArrow playerX=10 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=23 y=5
+CHECK → playerX=11 playerY=19 itemX=23 itemY=5
+UPDATE → itemMove x=23 y=6
+CHECK → playerX=11 playerY=19 itemX=23 itemY=6
+UPDATE → itemMove x=23 y=7
+CHECK → playerX=11 playerY=19 itemX=23 itemY=7
+INPUT → key=RightArrow playerX=11 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=23 y=8
+CHECK → playerX=12 playerY=19 itemX=23 itemY=8
+UPDATE → itemMove x=23 y=9
+CHECK → playerX=12 playerY=19 itemX=23 itemY=9
+INPUT → key=RightArrow playerX=12 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=23 y=10
+CHECK → playerX=13 playerY=19 itemX=23 itemY=10
+UPDATE → itemMove x=23 y=11
+CHECK → playerX=13 playerY=19 itemX=23 itemY=11
+INPUT → key=RightArrow playerX=13 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=23 y=12
+CHECK → playerX=14 playerY=19 itemX=23 itemY=12
+UPDATE → itemMove x=23 y=13
+CHECK → playerX=14 playerY=19 itemX=23 itemY=13
+UPDATE → itemMove x=23 y=14
+CHECK → playerX=14 playerY=19 itemX=23 itemY=14
+UPDATE → itemMove x=23 y=15
+CHECK → playerX=14 playerY=19 itemX=23 itemY=15
+UPDATE → itemMove x=23 y=16
+CHECK → playerX=14 playerY=19 itemX=23 itemY=16
+UPDATE → itemMove x=23 y=17
+CHECK → playerX=14 playerY=19 itemX=23 itemY=17
+UPDATE → itemMove x=23 y=18
+CHECK → playerX=14 playerY=19 itemX=23 itemY=18
+INPUT → key=RightArrow playerX=14 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=23 y=19
+CHECK → playerX=15 playerY=19 itemX=23 itemY=19
+UPDATE → itemMove x=23 y=20
+CHECK → playerX=15 playerY=19 itemX=23 itemY=20
+UPDATE → itemSpawned x=15 y=0
+UPDATE → itemMove x=15 y=1
+CHECK → playerX=15 playerY=19 itemX=15 itemY=1
+UPDATE → itemMove x=15 y=2
+CHECK → playerX=15 playerY=19 itemX=15 itemY=2
+UPDATE → itemMove x=15 y=3
+CHECK → playerX=15 playerY=19 itemX=15 itemY=3
+UPDATE → itemMove x=15 y=4
+CHECK → playerX=15 playerY=19 itemX=15 itemY=4
+UPDATE → itemMove x=15 y=5
+CHECK → playerX=15 playerY=19 itemX=15 itemY=5
+UPDATE → itemMove x=15 y=6
+CHECK → playerX=15 playerY=19 itemX=15 itemY=6
+UPDATE → itemMove x=15 y=7
+CHECK → playerX=15 playerY=19 itemX=15 itemY=7
+UPDATE → itemMove x=15 y=8
+CHECK → playerX=15 playerY=19 itemX=15 itemY=8
+UPDATE → itemMove x=15 y=9
+CHECK → playerX=15 playerY=19 itemX=15 itemY=9
+UPDATE → itemMove x=15 y=10
+CHECK → playerX=15 playerY=19 itemX=15 itemY=10
+UPDATE → itemMove x=15 y=11
+CHECK → playerX=15 playerY=19 itemX=15 itemY=11
+UPDATE → itemMove x=15 y=12
+CHECK → playerX=15 playerY=19 itemX=15 itemY=12
+UPDATE → itemMove x=15 y=13
+CHECK → playerX=15 playerY=19 itemX=15 itemY=13
+UPDATE → itemMove x=15 y=14
+CHECK → playerX=15 playerY=19 itemX=15 itemY=14
+UPDATE → itemMove x=15 y=15
+CHECK → playerX=15 playerY=19 itemX=15 itemY=15
+UPDATE → itemMove x=15 y=16
+CHECK → playerX=15 playerY=19 itemX=15 itemY=16
+UPDATE → itemMove x=15 y=17
+CHECK → playerX=15 playerY=19 itemX=15 itemY=17
+UPDATE → itemMove x=15 y=18
+CHECK → playerX=15 playerY=19 itemX=15 itemY=18
+UPDATE → itemMove x=15 y=19
+CHECK → playerX=15 playerY=19 itemX=15 itemY=19
+COLLISION → score=2
+UPDATE → itemSpawned x=12 y=0
+UPDATE → itemMove x=12 y=1
+CHECK → playerX=15 playerY=19 itemX=12 itemY=1
+UPDATE → itemMove x=12 y=2
+CHECK → playerX=15 playerY=19 itemX=12 itemY=2
+UPDATE → itemMove x=12 y=3
+CHECK → playerX=15 playerY=19 itemX=12 itemY=3
+UPDATE → itemMove x=12 y=4
+CHECK → playerX=15 playerY=19 itemX=12 itemY=4
+UPDATE → itemMove x=12 y=5
+CHECK → playerX=15 playerY=19 itemX=12 itemY=5
+UPDATE → itemMove x=12 y=6
+CHECK → playerX=15 playerY=19 itemX=12 itemY=6
+INPUT → key=LeftArrow playerX=15 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=12 y=7
+CHECK → playerX=14 playerY=19 itemX=12 itemY=7
+UPDATE → itemMove x=12 y=8
+CHECK → playerX=14 playerY=19 itemX=12 itemY=8
+INPUT → key=LeftArrow playerX=14 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=12 y=9
+CHECK → playerX=13 playerY=19 itemX=12 itemY=9
+UPDATE → itemMove x=12 y=10
+CHECK → playerX=13 playerY=19 itemX=12 itemY=10
+INPUT → key=LeftArrow playerX=13 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=12 y=11
+CHECK → playerX=12 playerY=19 itemX=12 itemY=11
+UPDATE → itemMove x=12 y=12
+CHECK → playerX=12 playerY=19 itemX=12 itemY=12
+UPDATE → itemMove x=12 y=13
+CHECK → playerX=12 playerY=19 itemX=12 itemY=13
+UPDATE → itemMove x=12 y=14
+CHECK → playerX=12 playerY=19 itemX=12 itemY=14
+UPDATE → itemMove x=12 y=15
+CHECK → playerX=12 playerY=19 itemX=12 itemY=15
+UPDATE → itemMove x=12 y=16
+CHECK → playerX=12 playerY=19 itemX=12 itemY=16
+UPDATE → itemMove x=12 y=17
+CHECK → playerX=12 playerY=19 itemX=12 itemY=17
+UPDATE → itemMove x=12 y=18
+CHECK → playerX=12 playerY=19 itemX=12 itemY=18
+UPDATE → itemMove x=12 y=19
+CHECK → playerX=12 playerY=19 itemX=12 itemY=19
+COLLISION → score=3
+UPDATE → itemSpawned x=23 y=0
+UPDATE → itemMove x=23 y=1
+CHECK → playerX=12 playerY=19 itemX=23 itemY=1
+UPDATE → itemMove x=23 y=2
+CHECK → playerX=12 playerY=19 itemX=23 itemY=2
+UPDATE → itemMove x=23 y=3
+CHECK → playerX=12 playerY=19 itemX=23 itemY=3
+INPUT → key=RightArrow playerX=12 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=23 y=4
+CHECK → playerX=13 playerY=19 itemX=23 itemY=4
+UPDATE → itemMove x=23 y=5
+CHECK → playerX=13 playerY=19 itemX=23 itemY=5
+UPDATE → itemMove x=23 y=6
+CHECK → playerX=13 playerY=19 itemX=23 itemY=6
+INPUT → key=RightArrow playerX=13 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=23 y=7
+CHECK → playerX=14 playerY=19 itemX=23 itemY=7
+UPDATE → itemMove x=23 y=8
+CHECK → playerX=14 playerY=19 itemX=23 itemY=8
+INPUT → key=RightArrow playerX=14 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=23 y=9
+CHECK → playerX=15 playerY=19 itemX=23 itemY=9
+UPDATE → itemMove x=23 y=10
+CHECK → playerX=15 playerY=19 itemX=23 itemY=10
+INPUT → key=RightArrow playerX=15 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=23 y=11
+CHECK → playerX=16 playerY=19 itemX=23 itemY=11
+UPDATE → itemMove x=23 y=12
+CHECK → playerX=16 playerY=19 itemX=23 itemY=12
+INPUT → key=RightArrow playerX=16 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=23 y=13
+CHECK → playerX=17 playerY=19 itemX=23 itemY=13
+UPDATE → itemMove x=23 y=14
+CHECK → playerX=17 playerY=19 itemX=23 itemY=14
+INPUT → key=RightArrow playerX=17 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=23 y=15
+CHECK → playerX=18 playerY=19 itemX=23 itemY=15
+UPDATE → itemMove x=23 y=16
+CHECK → playerX=18 playerY=19 itemX=23 itemY=16
+INPUT → key=RightArrow playerX=18 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=23 y=17
+CHECK → playerX=19 playerY=19 itemX=23 itemY=17
+UPDATE → itemMove x=23 y=18
+CHECK → playerX=19 playerY=19 itemX=23 itemY=18
+INPUT → key=RightArrow playerX=19 playerY=19
+MOVE → playerX=20 playerY=19
+UPDATE → itemMove x=23 y=19
+CHECK → playerX=20 playerY=19 itemX=23 itemY=19
+UPDATE → itemMove x=23 y=20
+CHECK → playerX=20 playerY=19 itemX=23 itemY=20
+UPDATE → itemSpawned x=6 y=0
+UPDATE → itemMove x=6 y=1
+CHECK → playerX=20 playerY=19 itemX=6 itemY=1
+UPDATE → itemMove x=6 y=2
+CHECK → playerX=20 playerY=19 itemX=6 itemY=2
+UPDATE → itemMove x=6 y=3
+CHECK → playerX=20 playerY=19 itemX=6 itemY=3
+UPDATE → itemMove x=6 y=4
+CHECK → playerX=20 playerY=19 itemX=6 itemY=4
+INPUT → key=LeftArrow playerX=20 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=6 y=5
+CHECK → playerX=19 playerY=19 itemX=6 itemY=5
+UPDATE → itemMove x=6 y=6
+CHECK → playerX=19 playerY=19 itemX=6 itemY=6
+UPDATE → itemMove x=6 y=7
+CHECK → playerX=19 playerY=19 itemX=6 itemY=7
+UPDATE → itemMove x=6 y=8
+CHECK → playerX=19 playerY=19 itemX=6 itemY=8
+UPDATE → itemMove x=6 y=9
+CHECK → playerX=19 playerY=19 itemX=6 itemY=9
+UPDATE → itemMove x=6 y=10
+CHECK → playerX=19 playerY=19 itemX=6 itemY=10
+UPDATE → itemMove x=6 y=11
+CHECK → playerX=19 playerY=19 itemX=6 itemY=11
+UPDATE → itemMove x=6 y=12
+CHECK → playerX=19 playerY=19 itemX=6 itemY=12
+UPDATE → itemMove x=6 y=13
+CHECK → playerX=19 playerY=19 itemX=6 itemY=13
+UPDATE → itemMove x=6 y=14
+CHECK → playerX=19 playerY=19 itemX=6 itemY=14
+UPDATE → itemMove x=6 y=15
+CHECK → playerX=19 playerY=19 itemX=6 itemY=15
+UPDATE → itemMove x=6 y=16
+CHECK → playerX=19 playerY=19 itemX=6 itemY=16
+UPDATE → itemMove x=6 y=17
+CHECK → playerX=19 playerY=19 itemX=6 itemY=17
+UPDATE → itemMove x=6 y=18
+CHECK → playerX=19 playerY=19 itemX=6 itemY=18
+UPDATE → itemMove x=6 y=19
+CHECK → playerX=19 playerY=19 itemX=6 itemY=19
+UPDATE → itemMove x=6 y=20
+CHECK → playerX=19 playerY=19 itemX=6 itemY=20
+UPDATE → itemSpawned x=28 y=0
+UPDATE → itemMove x=28 y=1
+CHECK → playerX=19 playerY=19 itemX=28 itemY=1
+UPDATE → itemMove x=28 y=2
+CHECK → playerX=19 playerY=19 itemX=28 itemY=2
+UPDATE → itemMove x=28 y=3
+CHECK → playerX=19 playerY=19 itemX=28 itemY=3
+UPDATE → itemMove x=28 y=4
+CHECK → playerX=19 playerY=19 itemX=28 itemY=4
+INPUT → key=RightArrow playerX=19 playerY=19
+MOVE → playerX=20 playerY=19
+UPDATE → itemMove x=28 y=5
+CHECK → playerX=20 playerY=19 itemX=28 itemY=5
+UPDATE → itemMove x=28 y=6
+CHECK → playerX=20 playerY=19 itemX=28 itemY=6
+INPUT → key=RightArrow playerX=20 playerY=19
+MOVE → playerX=21 playerY=19
+UPDATE → itemMove x=28 y=7
+CHECK → playerX=21 playerY=19 itemX=28 itemY=7
+UPDATE → itemMove x=28 y=8
+CHECK → playerX=21 playerY=19 itemX=28 itemY=8
+INPUT → key=RightArrow playerX=21 playerY=19
+MOVE → playerX=22 playerY=19
+UPDATE → itemMove x=28 y=9
+CHECK → playerX=22 playerY=19 itemX=28 itemY=9
+UPDATE → itemMove x=28 y=10
+CHECK → playerX=22 playerY=19 itemX=28 itemY=10
+INPUT → key=RightArrow playerX=22 playerY=19
+MOVE → playerX=23 playerY=19
+UPDATE → itemMove x=28 y=11
+CHECK → playerX=23 playerY=19 itemX=28 itemY=11
+UPDATE → itemMove x=28 y=12
+CHECK → playerX=23 playerY=19 itemX=28 itemY=12
+INPUT → key=RightArrow playerX=23 playerY=19
+MOVE → playerX=24 playerY=19
+UPDATE → itemMove x=28 y=13
+CHECK → playerX=24 playerY=19 itemX=28 itemY=13
+UPDATE → itemMove x=28 y=14
+CHECK → playerX=24 playerY=19 itemX=28 itemY=14
+UPDATE → itemMove x=28 y=15
+CHECK → playerX=24 playerY=19 itemX=28 itemY=15
+INPUT → key=RightArrow playerX=24 playerY=19
+MOVE → playerX=25 playerY=19
+UPDATE → itemMove x=28 y=16
+CHECK → playerX=25 playerY=19 itemX=28 itemY=16
+UPDATE → itemMove x=28 y=17
+CHECK → playerX=25 playerY=19 itemX=28 itemY=17
+INPUT → key=RightArrow playerX=25 playerY=19
+MOVE → playerX=26 playerY=19
+UPDATE → itemMove x=28 y=18
+CHECK → playerX=26 playerY=19 itemX=28 itemY=18
+UPDATE → itemMove x=28 y=19
+CHECK → playerX=26 playerY=19 itemX=28 itemY=19
+INPUT → key=RightArrow playerX=26 playerY=19
+MOVE → playerX=27 playerY=19
+UPDATE → itemMove x=28 y=20
+CHECK → playerX=27 playerY=19 itemX=28 itemY=20
+UPDATE → itemSpawned x=22 y=0
+UPDATE → itemMove x=22 y=1
+CHECK → playerX=27 playerY=19 itemX=22 itemY=1
+UPDATE → itemMove x=22 y=2
+CHECK → playerX=27 playerY=19 itemX=22 itemY=2
+UPDATE → itemMove x=22 y=3
+CHECK → playerX=27 playerY=19 itemX=22 itemY=3
+UPDATE → itemMove x=22 y=4
+CHECK → playerX=27 playerY=19 itemX=22 itemY=4
+INPUT → key=LeftArrow playerX=27 playerY=19
+MOVE → playerX=26 playerY=19
+UPDATE → itemMove x=22 y=5
+CHECK → playerX=26 playerY=19 itemX=22 itemY=5
+UPDATE → itemMove x=22 y=6
+CHECK → playerX=26 playerY=19 itemX=22 itemY=6
+UPDATE → itemMove x=22 y=7
+CHECK → playerX=26 playerY=19 itemX=22 itemY=7
+INPUT → key=LeftArrow playerX=26 playerY=19
+MOVE → playerX=25 playerY=19
+UPDATE → itemMove x=22 y=8
+CHECK → playerX=25 playerY=19 itemX=22 itemY=8
+UPDATE → itemMove x=22 y=9
+CHECK → playerX=25 playerY=19 itemX=22 itemY=9
+INPUT → key=LeftArrow playerX=25 playerY=19
+MOVE → playerX=24 playerY=19
+UPDATE → itemMove x=22 y=10
+CHECK → playerX=24 playerY=19 itemX=22 itemY=10
+INPUT → key=LeftArrow playerX=24 playerY=19
+MOVE → playerX=23 playerY=19
+UPDATE → itemMove x=22 y=11
+CHECK → playerX=23 playerY=19 itemX=22 itemY=11
+UPDATE → itemMove x=22 y=12
+CHECK → playerX=23 playerY=19 itemX=22 itemY=12
+UPDATE → itemMove x=22 y=13
+CHECK → playerX=23 playerY=19 itemX=22 itemY=13
+INPUT → key=LeftArrow playerX=23 playerY=19
+MOVE → playerX=22 playerY=19
+UPDATE → itemMove x=22 y=14
+CHECK → playerX=22 playerY=19 itemX=22 itemY=14
+UPDATE → itemMove x=22 y=15
+CHECK → playerX=22 playerY=19 itemX=22 itemY=15
+UPDATE → itemMove x=22 y=16
+CHECK → playerX=22 playerY=19 itemX=22 itemY=16
+INPUT → key=LeftArrow playerX=22 playerY=19
+MOVE → playerX=21 playerY=19
+UPDATE → itemMove x=22 y=17
+CHECK → playerX=21 playerY=19 itemX=22 itemY=17
+UPDATE → itemMove x=22 y=18
+CHECK → playerX=21 playerY=19 itemX=22 itemY=18
+UPDATE → itemMove x=22 y=19
+CHECK → playerX=21 playerY=19 itemX=22 itemY=19
+UPDATE → itemMove x=22 y=20
+CHECK → playerX=21 playerY=19 itemX=22 itemY=20
+UPDATE → itemSpawned x=19 y=0
+UPDATE → itemMove x=19 y=1
+CHECK → playerX=21 playerY=19 itemX=19 itemY=1
+UPDATE → itemMove x=19 y=2
+CHECK → playerX=21 playerY=19 itemX=19 itemY=2
+UPDATE → itemMove x=19 y=3
+CHECK → playerX=21 playerY=19 itemX=19 itemY=3
+UPDATE → itemMove x=19 y=4
+CHECK → playerX=21 playerY=19 itemX=19 itemY=4
+UPDATE → itemMove x=19 y=5
+CHECK → playerX=21 playerY=19 itemX=19 itemY=5
+UPDATE → itemMove x=19 y=6
+CHECK → playerX=21 playerY=19 itemX=19 itemY=6
+UPDATE → itemMove x=19 y=7
+CHECK → playerX=21 playerY=19 itemX=19 itemY=7
+UPDATE → itemMove x=19 y=8
+CHECK → playerX=21 playerY=19 itemX=19 itemY=8
+INPUT → key=LeftArrow playerX=21 playerY=19
+MOVE → playerX=20 playerY=19
+UPDATE → itemMove x=19 y=9
+CHECK → playerX=20 playerY=19 itemX=19 itemY=9
+UPDATE → itemMove x=19 y=10
+CHECK → playerX=20 playerY=19 itemX=19 itemY=10
+UPDATE → itemMove x=19 y=11
+CHECK → playerX=20 playerY=19 itemX=19 itemY=11
+UPDATE → itemMove x=19 y=12
+CHECK → playerX=20 playerY=19 itemX=19 itemY=12
+INPUT → key=LeftArrow playerX=20 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=19 y=13
+CHECK → playerX=19 playerY=19 itemX=19 itemY=13
+UPDATE → itemMove x=19 y=14
+CHECK → playerX=19 playerY=19 itemX=19 itemY=14
+UPDATE → itemMove x=19 y=15
+CHECK → playerX=19 playerY=19 itemX=19 itemY=15
+UPDATE → itemMove x=19 y=16
+CHECK → playerX=19 playerY=19 itemX=19 itemY=16
+UPDATE → itemMove x=19 y=17
+CHECK → playerX=19 playerY=19 itemX=19 itemY=17
+UPDATE → itemMove x=19 y=18
+CHECK → playerX=19 playerY=19 itemX=19 itemY=18
+UPDATE → itemMove x=19 y=19
+CHECK → playerX=19 playerY=19 itemX=19 itemY=19
+COLLISION → score=4
+UPDATE → itemSpawned x=5 y=0
+UPDATE → itemMove x=5 y=1
+CHECK → playerX=19 playerY=19 itemX=5 itemY=1
+UPDATE → itemMove x=5 y=2
+CHECK → playerX=19 playerY=19 itemX=5 itemY=2
+UPDATE → itemMove x=5 y=3
+CHECK → playerX=19 playerY=19 itemX=5 itemY=3
+UPDATE → itemMove x=5 y=4
+CHECK → playerX=19 playerY=19 itemX=5 itemY=4
+INPUT → key=LeftArrow playerX=19 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=5 y=5
+CHECK → playerX=18 playerY=19 itemX=5 itemY=5
+UPDATE → itemMove x=5 y=6
+CHECK → playerX=18 playerY=19 itemX=5 itemY=6
+UPDATE → itemMove x=5 y=7
+CHECK → playerX=18 playerY=19 itemX=5 itemY=7
+UPDATE → itemMove x=5 y=8
+CHECK → playerX=18 playerY=19 itemX=5 itemY=8
+UPDATE → itemMove x=5 y=9
+CHECK → playerX=18 playerY=19 itemX=5 itemY=9
+INPUT → key=LeftArrow playerX=18 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=5 y=10
+CHECK → playerX=17 playerY=19 itemX=5 itemY=10
+UPDATE → itemMove x=5 y=11
+CHECK → playerX=17 playerY=19 itemX=5 itemY=11
+UPDATE → itemMove x=5 y=12
+CHECK → playerX=17 playerY=19 itemX=5 itemY=12
+INPUT → key=LeftArrow playerX=17 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=5 y=13
+CHECK → playerX=16 playerY=19 itemX=5 itemY=13
+UPDATE → itemMove x=5 y=14
+CHECK → playerX=16 playerY=19 itemX=5 itemY=14
+UPDATE → itemMove x=5 y=15
+CHECK → playerX=16 playerY=19 itemX=5 itemY=15
+INPUT → key=LeftArrow playerX=16 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=5 y=16
+CHECK → playerX=15 playerY=19 itemX=5 itemY=16
+UPDATE → itemMove x=5 y=17
+CHECK → playerX=15 playerY=19 itemX=5 itemY=17
+UPDATE → itemMove x=5 y=18
+CHECK → playerX=15 playerY=19 itemX=5 itemY=18
+UPDATE → itemMove x=5 y=19
+CHECK → playerX=15 playerY=19 itemX=5 itemY=19
+UPDATE → itemMove x=5 y=20
+CHECK → playerX=15 playerY=19 itemX=5 itemY=20
+UPDATE → itemSpawned x=13 y=0
+UPDATE → itemMove x=13 y=1
+CHECK → playerX=15 playerY=19 itemX=13 itemY=1
+UPDATE → itemMove x=13 y=2
+CHECK → playerX=15 playerY=19 itemX=13 itemY=2
+UPDATE → itemMove x=13 y=3
+CHECK → playerX=15 playerY=19 itemX=13 itemY=3
+UPDATE → itemMove x=13 y=4
+CHECK → playerX=15 playerY=19 itemX=13 itemY=4
+UPDATE → itemMove x=13 y=5
+CHECK → playerX=15 playerY=19 itemX=13 itemY=5
+INPUT → key=LeftArrow playerX=15 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=13 y=6
+CHECK → playerX=14 playerY=19 itemX=13 itemY=6
+UPDATE → itemMove x=13 y=7
+CHECK → playerX=14 playerY=19 itemX=13 itemY=7
+INPUT → key=LeftArrow playerX=14 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=13 y=8
+CHECK → playerX=13 playerY=19 itemX=13 itemY=8
+UPDATE → itemMove x=13 y=9
+CHECK → playerX=13 playerY=19 itemX=13 itemY=9
+UPDATE → itemMove x=13 y=10
+CHECK → playerX=13 playerY=19 itemX=13 itemY=10
+UPDATE → itemMove x=13 y=11
+CHECK → playerX=13 playerY=19 itemX=13 itemY=11
+UPDATE → itemMove x=13 y=12
+CHECK → playerX=13 playerY=19 itemX=13 itemY=12
+UPDATE → itemMove x=13 y=13
+CHECK → playerX=13 playerY=19 itemX=13 itemY=13
+UPDATE → itemMove x=13 y=14
+CHECK → playerX=13 playerY=19 itemX=13 itemY=14
+UPDATE → itemMove x=13 y=15
+CHECK → playerX=13 playerY=19 itemX=13 itemY=15
+UPDATE → itemMove x=13 y=16
+CHECK → playerX=13 playerY=19 itemX=13 itemY=16
+UPDATE → itemMove x=13 y=17
+CHECK → playerX=13 playerY=19 itemX=13 itemY=17
+UPDATE → itemMove x=13 y=18
+CHECK → playerX=13 playerY=19 itemX=13 itemY=18
+UPDATE → itemMove x=13 y=19
+CHECK → playerX=13 playerY=19 itemX=13 itemY=19
+COLLISION → score=5
+UPDATE → itemSpawned x=5 y=0
+UPDATE → itemMove x=5 y=1
+CHECK → playerX=13 playerY=19 itemX=5 itemY=1
+UPDATE → itemMove x=5 y=2
+CHECK → playerX=13 playerY=19 itemX=5 itemY=2
+UPDATE → itemMove x=5 y=3
+CHECK → playerX=13 playerY=19 itemX=5 itemY=3
+UPDATE → itemMove x=5 y=4
+CHECK → playerX=13 playerY=19 itemX=5 itemY=4
+UPDATE → itemMove x=5 y=5
+CHECK → playerX=13 playerY=19 itemX=5 itemY=5
+INPUT → key=LeftArrow playerX=13 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=5 y=6
+CHECK → playerX=12 playerY=19 itemX=5 itemY=6
+UPDATE → itemMove x=5 y=7
+CHECK → playerX=12 playerY=19 itemX=5 itemY=7
+INPUT → key=LeftArrow playerX=12 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=5 y=8
+CHECK → playerX=11 playerY=19 itemX=5 itemY=8
+UPDATE → itemMove x=5 y=9
+CHECK → playerX=11 playerY=19 itemX=5 itemY=9
+UPDATE → itemMove x=5 y=10
+CHECK → playerX=11 playerY=19 itemX=5 itemY=10
+INPUT → key=LeftArrow playerX=11 playerY=19
+MOVE → playerX=10 playerY=19
+UPDATE → itemMove x=5 y=11
+CHECK → playerX=10 playerY=19 itemX=5 itemY=11
+UPDATE → itemMove x=5 y=12
+CHECK → playerX=10 playerY=19 itemX=5 itemY=12
+INPUT → key=LeftArrow playerX=10 playerY=19
+MOVE → playerX=9 playerY=19
+UPDATE → itemMove x=5 y=13
+CHECK → playerX=9 playerY=19 itemX=5 itemY=13
+UPDATE → itemMove x=5 y=14
+CHECK → playerX=9 playerY=19 itemX=5 itemY=14
+INPUT → key=LeftArrow playerX=9 playerY=19
+MOVE → playerX=8 playerY=19
+UPDATE → itemMove x=5 y=15
+CHECK → playerX=8 playerY=19 itemX=5 itemY=15
+UPDATE → itemMove x=5 y=16
+CHECK → playerX=8 playerY=19 itemX=5 itemY=16
+INPUT → key=LeftArrow playerX=8 playerY=19
+MOVE → playerX=7 playerY=19
+UPDATE → itemMove x=5 y=17
+CHECK → playerX=7 playerY=19 itemX=5 itemY=17
+UPDATE → itemMove x=5 y=18
+CHECK → playerX=7 playerY=19 itemX=5 itemY=18
+INPUT → key=LeftArrow playerX=7 playerY=19
+MOVE → playerX=6 playerY=19
+UPDATE → itemMove x=5 y=19
+CHECK → playerX=6 playerY=19 itemX=5 itemY=19
+UPDATE → itemMove x=5 y=20
+CHECK → playerX=6 playerY=19 itemX=5 itemY=20
+UPDATE → itemSpawned x=22 y=0
+UPDATE → itemMove x=22 y=1
+CHECK → playerX=6 playerY=19 itemX=22 itemY=1
+UPDATE → itemMove x=22 y=2
+CHECK → playerX=6 playerY=19 itemX=22 itemY=2
+UPDATE → itemMove x=22 y=3
+CHECK → playerX=6 playerY=19 itemX=22 itemY=3
+UPDATE → itemMove x=22 y=4
+CHECK → playerX=6 playerY=19 itemX=22 itemY=4
+UPDATE → itemMove x=22 y=5
+CHECK → playerX=6 playerY=19 itemX=22 itemY=5
+INPUT → key=RightArrow playerX=6 playerY=19
+MOVE → playerX=7 playerY=19
+UPDATE → itemMove x=22 y=6
+CHECK → playerX=7 playerY=19 itemX=22 itemY=6
+UPDATE → itemMove x=22 y=7
+CHECK → playerX=7 playerY=19 itemX=22 itemY=7
+INPUT → key=RightArrow playerX=7 playerY=19
+MOVE → playerX=8 playerY=19
+UPDATE → itemMove x=22 y=8
+CHECK → playerX=8 playerY=19 itemX=22 itemY=8
+UPDATE → itemMove x=22 y=9
+CHECK → playerX=8 playerY=19 itemX=22 itemY=9
+UPDATE → itemMove x=22 y=10
+CHECK → playerX=8 playerY=19 itemX=22 itemY=10
+INPUT → key=RightArrow playerX=8 playerY=19
+MOVE → playerX=9 playerY=19
+UPDATE → itemMove x=22 y=11
+CHECK → playerX=9 playerY=19 itemX=22 itemY=11
+UPDATE → itemMove x=22 y=12
+CHECK → playerX=9 playerY=19 itemX=22 itemY=12
+INPUT → key=RightArrow playerX=9 playerY=19
+MOVE → playerX=10 playerY=19
+UPDATE → itemMove x=22 y=13
+CHECK → playerX=10 playerY=19 itemX=22 itemY=13
+UPDATE → itemMove x=22 y=14
+CHECK → playerX=10 playerY=19 itemX=22 itemY=14
+UPDATE → itemMove x=22 y=15
+CHECK → playerX=10 playerY=19 itemX=22 itemY=15
+INPUT → key=RightArrow playerX=10 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=22 y=16
+CHECK → playerX=11 playerY=19 itemX=22 itemY=16
+UPDATE → itemMove x=22 y=17
+CHECK → playerX=11 playerY=19 itemX=22 itemY=17
+UPDATE → itemMove x=22 y=18
+CHECK → playerX=11 playerY=19 itemX=22 itemY=18
+INPUT → key=RightArrow playerX=11 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=22 y=19
+CHECK → playerX=12 playerY=19 itemX=22 itemY=19
+UPDATE → itemMove x=22 y=20
+CHECK → playerX=12 playerY=19 itemX=22 itemY=20
+UPDATE → itemSpawned x=19 y=0
+UPDATE → itemMove x=19 y=1
+CHECK → playerX=12 playerY=19 itemX=19 itemY=1
+INPUT → key=RightArrow playerX=12 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=19 y=2
+CHECK → playerX=13 playerY=19 itemX=19 itemY=2
+UPDATE → itemMove x=19 y=3
+CHECK → playerX=13 playerY=19 itemX=19 itemY=3
+UPDATE → itemMove x=19 y=4
+CHECK → playerX=13 playerY=19 itemX=19 itemY=4
+INPUT → key=RightArrow playerX=13 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=19 y=5
+CHECK → playerX=14 playerY=19 itemX=19 itemY=5
+UPDATE → itemMove x=19 y=6
+CHECK → playerX=14 playerY=19 itemX=19 itemY=6
+INPUT → key=RightArrow playerX=14 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=19 y=7
+CHECK → playerX=15 playerY=19 itemX=19 itemY=7
+UPDATE → itemMove x=19 y=8
+CHECK → playerX=15 playerY=19 itemX=19 itemY=8
+UPDATE → itemMove x=19 y=9
+CHECK → playerX=15 playerY=19 itemX=19 itemY=9
+UPDATE → itemMove x=19 y=10
+CHECK → playerX=15 playerY=19 itemX=19 itemY=10
+UPDATE → itemMove x=19 y=11
+CHECK → playerX=15 playerY=19 itemX=19 itemY=11
+INPUT → key=RightArrow playerX=15 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=19 y=12
+CHECK → playerX=16 playerY=19 itemX=19 itemY=12
+UPDATE → itemMove x=19 y=13
+CHECK → playerX=16 playerY=19 itemX=19 itemY=13
+INPUT → key=RightArrow playerX=16 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=19 y=14
+CHECK → playerX=17 playerY=19 itemX=19 itemY=14
+UPDATE → itemMove x=19 y=15
+CHECK → playerX=17 playerY=19 itemX=19 itemY=15
+INPUT → key=RightArrow playerX=17 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=19 y=16
+CHECK → playerX=18 playerY=19 itemX=19 itemY=16
+UPDATE → itemMove x=19 y=17
+CHECK → playerX=18 playerY=19 itemX=19 itemY=17
+INPUT → key=RightArrow playerX=18 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=19 y=18
+CHECK → playerX=19 playerY=19 itemX=19 itemY=18
+UPDATE → itemMove x=19 y=19
+CHECK → playerX=19 playerY=19 itemX=19 itemY=19
+COLLISION → score=6
+UPDATE → itemSpawned x=7 y=0
+UPDATE → itemMove x=7 y=1
+CHECK → playerX=19 playerY=19 itemX=7 itemY=1
+UPDATE → itemMove x=7 y=2
+CHECK → playerX=19 playerY=19 itemX=7 itemY=2
+UPDATE → itemMove x=7 y=3
+CHECK → playerX=19 playerY=19 itemX=7 itemY=3
+UPDATE → itemMove x=7 y=4
+CHECK → playerX=19 playerY=19 itemX=7 itemY=4
+UPDATE → itemMove x=7 y=5
+CHECK → playerX=19 playerY=19 itemX=7 itemY=5
+UPDATE → itemMove x=7 y=6
+CHECK → playerX=19 playerY=19 itemX=7 itemY=6
+UPDATE → itemMove x=7 y=7
+CHECK → playerX=19 playerY=19 itemX=7 itemY=7
+UPDATE → itemMove x=7 y=8
+CHECK → playerX=19 playerY=19 itemX=7 itemY=8
+UPDATE → itemMove x=7 y=9
+CHECK → playerX=19 playerY=19 itemX=7 itemY=9
+UPDATE → itemMove x=7 y=10
+CHECK → playerX=19 playerY=19 itemX=7 itemY=10
+UPDATE → itemMove x=7 y=11
+CHECK → playerX=19 playerY=19 itemX=7 itemY=11
+UPDATE → itemMove x=7 y=12
+CHECK → playerX=19 playerY=19 itemX=7 itemY=12
+UPDATE → itemMove x=7 y=13
+CHECK → playerX=19 playerY=19 itemX=7 itemY=13
+UPDATE → itemMove x=7 y=14
+CHECK → playerX=19 playerY=19 itemX=7 itemY=14
+UPDATE → itemMove x=7 y=15
+CHECK → playerX=19 playerY=19 itemX=7 itemY=15
+UPDATE → itemMove x=7 y=16
+CHECK → playerX=19 playerY=19 itemX=7 itemY=16
+INPUT → key=LeftArrow playerX=19 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=7 y=17
+CHECK → playerX=18 playerY=19 itemX=7 itemY=17
+UPDATE → itemMove x=7 y=18
+CHECK → playerX=18 playerY=19 itemX=7 itemY=18
+UPDATE → itemMove x=7 y=19
+CHECK → playerX=18 playerY=19 itemX=7 itemY=19
+UPDATE → itemMove x=7 y=20
+CHECK → playerX=18 playerY=19 itemX=7 itemY=20
+UPDATE → itemSpawned x=2 y=0
+UPDATE → itemMove x=2 y=1
+CHECK → playerX=18 playerY=19 itemX=2 itemY=1
+UPDATE → itemMove x=2 y=2
+CHECK → playerX=18 playerY=19 itemX=2 itemY=2
+UPDATE → itemMove x=2 y=3
+CHECK → playerX=18 playerY=19 itemX=2 itemY=3
+UPDATE → itemMove x=2 y=4
+CHECK → playerX=18 playerY=19 itemX=2 itemY=4
+INPUT → key=LeftArrow playerX=18 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=2 y=5
+CHECK → playerX=17 playerY=19 itemX=2 itemY=5
+UPDATE → itemMove x=2 y=6
+CHECK → playerX=17 playerY=19 itemX=2 itemY=6
+UPDATE → itemMove x=2 y=7
+CHECK → playerX=17 playerY=19 itemX=2 itemY=7
+UPDATE → itemMove x=2 y=8
+CHECK → playerX=17 playerY=19 itemX=2 itemY=8
+UPDATE → itemMove x=2 y=9
+CHECK → playerX=17 playerY=19 itemX=2 itemY=9
+UPDATE → itemMove x=2 y=10
+CHECK → playerX=17 playerY=19 itemX=2 itemY=10
+UPDATE → itemMove x=2 y=11
+CHECK → playerX=17 playerY=19 itemX=2 itemY=11
+UPDATE → itemMove x=2 y=12
+CHECK → playerX=17 playerY=19 itemX=2 itemY=12
+UPDATE → itemMove x=2 y=13
+CHECK → playerX=17 playerY=19 itemX=2 itemY=13
+UPDATE → itemMove x=2 y=14
+CHECK → playerX=17 playerY=19 itemX=2 itemY=14
+UPDATE → itemMove x=2 y=15
+CHECK → playerX=17 playerY=19 itemX=2 itemY=15
+UPDATE → itemMove x=2 y=16
+CHECK → playerX=17 playerY=19 itemX=2 itemY=16
+UPDATE → itemMove x=2 y=17
+CHECK → playerX=17 playerY=19 itemX=2 itemY=17
+UPDATE → itemMove x=2 y=18
+CHECK → playerX=17 playerY=19 itemX=2 itemY=18
+UPDATE → itemMove x=2 y=19
+CHECK → playerX=17 playerY=19 itemX=2 itemY=19
+UPDATE → itemMove x=2 y=20
+CHECK → playerX=17 playerY=19 itemX=2 itemY=20
+UPDATE → itemSpawned x=9 y=0
+UPDATE → itemMove x=9 y=1
+CHECK → playerX=17 playerY=19 itemX=9 itemY=1
+UPDATE → itemMove x=9 y=2
+CHECK → playerX=17 playerY=19 itemX=9 itemY=2
+UPDATE → itemMove x=9 y=3
+CHECK → playerX=17 playerY=19 itemX=9 itemY=3
+UPDATE → itemMove x=9 y=4
+CHECK → playerX=17 playerY=19 itemX=9 itemY=4
+INPUT → key=LeftArrow playerX=17 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=9 y=5
+CHECK → playerX=16 playerY=19 itemX=9 itemY=5
+UPDATE → itemMove x=9 y=6
+CHECK → playerX=16 playerY=19 itemX=9 itemY=6
+INPUT → key=LeftArrow playerX=16 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=9 y=7
+CHECK → playerX=15 playerY=19 itemX=9 itemY=7
+UPDATE → itemMove x=9 y=8
+CHECK → playerX=15 playerY=19 itemX=9 itemY=8
+INPUT → key=LeftArrow playerX=15 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=9 y=9
+CHECK → playerX=14 playerY=19 itemX=9 itemY=9
+UPDATE → itemMove x=9 y=10
+CHECK → playerX=14 playerY=19 itemX=9 itemY=10
+INPUT → key=LeftArrow playerX=14 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=9 y=11
+CHECK → playerX=13 playerY=19 itemX=9 itemY=11
+UPDATE → itemMove x=9 y=12
+CHECK → playerX=13 playerY=19 itemX=9 itemY=12
+INPUT → key=LeftArrow playerX=13 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=9 y=13
+CHECK → playerX=12 playerY=19 itemX=9 itemY=13
+UPDATE → itemMove x=9 y=14
+CHECK → playerX=12 playerY=19 itemX=9 itemY=14
+INPUT → key=LeftArrow playerX=12 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=9 y=15
+CHECK → playerX=11 playerY=19 itemX=9 itemY=15
+UPDATE → itemMove x=9 y=16
+CHECK → playerX=11 playerY=19 itemX=9 itemY=16
+INPUT → key=LeftArrow playerX=11 playerY=19
+MOVE → playerX=10 playerY=19
+UPDATE → itemMove x=9 y=17
+CHECK → playerX=10 playerY=19 itemX=9 itemY=17
+INPUT → key=LeftArrow playerX=10 playerY=19
+MOVE → playerX=9 playerY=19
+UPDATE → itemMove x=9 y=18
+CHECK → playerX=9 playerY=19 itemX=9 itemY=18
+UPDATE → itemMove x=9 y=19
+CHECK → playerX=9 playerY=19 itemX=9 itemY=19
+COLLISION → score=7
+UPDATE → itemSpawned x=7 y=0
+UPDATE → itemMove x=7 y=1
+CHECK → playerX=9 playerY=19 itemX=7 itemY=1
+UPDATE → itemMove x=7 y=2
+CHECK → playerX=9 playerY=19 itemX=7 itemY=2
+UPDATE → itemMove x=7 y=3
+CHECK → playerX=9 playerY=19 itemX=7 itemY=3
+UPDATE → itemMove x=7 y=4
+CHECK → playerX=9 playerY=19 itemX=7 itemY=4
+UPDATE → itemMove x=7 y=5
+CHECK → playerX=9 playerY=19 itemX=7 itemY=5
+UPDATE → itemMove x=7 y=6
+CHECK → playerX=9 playerY=19 itemX=7 itemY=6
+UPDATE → itemMove x=7 y=7
+CHECK → playerX=9 playerY=19 itemX=7 itemY=7
+INPUT → key=LeftArrow playerX=9 playerY=19
+MOVE → playerX=8 playerY=19
+UPDATE → itemMove x=7 y=8
+CHECK → playerX=8 playerY=19 itemX=7 itemY=8
+UPDATE → itemMove x=7 y=9
+CHECK → playerX=8 playerY=19 itemX=7 itemY=9
+UPDATE → itemMove x=7 y=10
+CHECK → playerX=8 playerY=19 itemX=7 itemY=10
+INPUT → key=LeftArrow playerX=8 playerY=19
+MOVE → playerX=7 playerY=19
+UPDATE → itemMove x=7 y=11
+CHECK → playerX=7 playerY=19 itemX=7 itemY=11
+UPDATE → itemMove x=7 y=12
+CHECK → playerX=7 playerY=19 itemX=7 itemY=12
+UPDATE → itemMove x=7 y=13
+CHECK → playerX=7 playerY=19 itemX=7 itemY=13
+UPDATE → itemMove x=7 y=14
+CHECK → playerX=7 playerY=19 itemX=7 itemY=14
+UPDATE → itemMove x=7 y=15
+CHECK → playerX=7 playerY=19 itemX=7 itemY=15
+UPDATE → itemMove x=7 y=16
+CHECK → playerX=7 playerY=19 itemX=7 itemY=16
+UPDATE → itemMove x=7 y=17
+CHECK → playerX=7 playerY=19 itemX=7 itemY=17
+UPDATE → itemMove x=7 y=18
+CHECK → playerX=7 playerY=19 itemX=7 itemY=18
+UPDATE → itemMove x=7 y=19
+CHECK → playerX=7 playerY=19 itemX=7 itemY=19
+COLLISION → score=8
+UPDATE → itemSpawned x=25 y=0
+UPDATE → itemMove x=25 y=1
+CHECK → playerX=7 playerY=19 itemX=25 itemY=1
+UPDATE → itemMove x=25 y=2
+CHECK → playerX=7 playerY=19 itemX=25 itemY=2
+UPDATE → itemMove x=25 y=3
+CHECK → playerX=7 playerY=19 itemX=25 itemY=3
+UPDATE → itemMove x=25 y=4
+CHECK → playerX=7 playerY=19 itemX=25 itemY=4
+INPUT → key=RightArrow playerX=7 playerY=19
+MOVE → playerX=8 playerY=19
+UPDATE → itemMove x=25 y=5
+CHECK → playerX=8 playerY=19 itemX=25 itemY=5
+UPDATE → itemMove x=25 y=6
+CHECK → playerX=8 playerY=19 itemX=25 itemY=6
+INPUT → key=RightArrow playerX=8 playerY=19
+MOVE → playerX=9 playerY=19
+UPDATE → itemMove x=25 y=7
+CHECK → playerX=9 playerY=19 itemX=25 itemY=7
+UPDATE → itemMove x=25 y=8
+CHECK → playerX=9 playerY=19 itemX=25 itemY=8
+INPUT → key=RightArrow playerX=9 playerY=19
+MOVE → playerX=10 playerY=19
+UPDATE → itemMove x=25 y=9
+CHECK → playerX=10 playerY=19 itemX=25 itemY=9
+UPDATE → itemMove x=25 y=10
+CHECK → playerX=10 playerY=19 itemX=25 itemY=10
+INPUT → key=RightArrow playerX=10 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=25 y=11
+CHECK → playerX=11 playerY=19 itemX=25 itemY=11
+UPDATE → itemMove x=25 y=12
+CHECK → playerX=11 playerY=19 itemX=25 itemY=12
+UPDATE → itemMove x=25 y=13
+CHECK → playerX=11 playerY=19 itemX=25 itemY=13
+UPDATE → itemMove x=25 y=14
+CHECK → playerX=11 playerY=19 itemX=25 itemY=14
+INPUT → key=RightArrow playerX=11 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=25 y=15
+CHECK → playerX=12 playerY=19 itemX=25 itemY=15
+UPDATE → itemMove x=25 y=16
+CHECK → playerX=12 playerY=19 itemX=25 itemY=16
+UPDATE → itemMove x=25 y=17
+CHECK → playerX=12 playerY=19 itemX=25 itemY=17
+UPDATE → itemMove x=25 y=18
+CHECK → playerX=12 playerY=19 itemX=25 itemY=18
+INPUT → key=RightArrow playerX=12 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=25 y=19
+CHECK → playerX=13 playerY=19 itemX=25 itemY=19
+UPDATE → itemMove x=25 y=20
+CHECK → playerX=13 playerY=19 itemX=25 itemY=20
+UPDATE → itemSpawned x=6 y=0
+UPDATE → itemMove x=6 y=1
+CHECK → playerX=13 playerY=19 itemX=6 itemY=1
+UPDATE → itemMove x=6 y=2
+CHECK → playerX=13 playerY=19 itemX=6 itemY=2
+UPDATE → itemMove x=6 y=3
+CHECK → playerX=13 playerY=19 itemX=6 itemY=3
+UPDATE → itemMove x=6 y=4
+CHECK → playerX=13 playerY=19 itemX=6 itemY=4
+INPUT → key=LeftArrow playerX=13 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=6 y=5
+CHECK → playerX=12 playerY=19 itemX=6 itemY=5
+UPDATE → itemMove x=6 y=6
+CHECK → playerX=12 playerY=19 itemX=6 itemY=6
+INPUT → key=LeftArrow playerX=12 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=6 y=7
+CHECK → playerX=11 playerY=19 itemX=6 itemY=7
+UPDATE → itemMove x=6 y=8
+CHECK → playerX=11 playerY=19 itemX=6 itemY=8
+INPUT → key=LeftArrow playerX=11 playerY=19
+MOVE → playerX=10 playerY=19
+UPDATE → itemMove x=6 y=9
+CHECK → playerX=10 playerY=19 itemX=6 itemY=9
+UPDATE → itemMove x=6 y=10
+CHECK → playerX=10 playerY=19 itemX=6 itemY=10
+INPUT → key=LeftArrow playerX=10 playerY=19
+MOVE → playerX=9 playerY=19
+UPDATE → itemMove x=6 y=11
+CHECK → playerX=9 playerY=19 itemX=6 itemY=11
+INPUT → key=LeftArrow playerX=9 playerY=19
+MOVE → playerX=8 playerY=19
+UPDATE → itemMove x=6 y=12
+CHECK → playerX=8 playerY=19 itemX=6 itemY=12
+UPDATE → itemMove x=6 y=13
+CHECK → playerX=8 playerY=19 itemX=6 itemY=13
+INPUT → key=LeftArrow playerX=8 playerY=19
+MOVE → playerX=7 playerY=19
+UPDATE → itemMove x=6 y=14
+CHECK → playerX=7 playerY=19 itemX=6 itemY=14
+UPDATE → itemMove x=6 y=15
+CHECK → playerX=7 playerY=19 itemX=6 itemY=15
+INPUT → key=LeftArrow playerX=7 playerY=19
+MOVE → playerX=6 playerY=19
+UPDATE → itemMove x=6 y=16
+CHECK → playerX=6 playerY=19 itemX=6 itemY=16
+UPDATE → itemMove x=6 y=17
+CHECK → playerX=6 playerY=19 itemX=6 itemY=17
+UPDATE → itemMove x=6 y=18
+CHECK → playerX=6 playerY=19 itemX=6 itemY=18
+UPDATE → itemMove x=6 y=19
+CHECK → playerX=6 playerY=19 itemX=6 itemY=19
+COLLISION → score=9
+UPDATE → itemSpawned x=0 y=0
+UPDATE → itemMove x=0 y=1
+CHECK → playerX=6 playerY=19 itemX=0 itemY=1
+UPDATE → itemMove x=0 y=2
+CHECK → playerX=6 playerY=19 itemX=0 itemY=2
+UPDATE → itemMove x=0 y=3
+CHECK → playerX=6 playerY=19 itemX=0 itemY=3
+UPDATE → itemMove x=0 y=4
+CHECK → playerX=6 playerY=19 itemX=0 itemY=4
+UPDATE → itemMove x=0 y=5
+CHECK → playerX=6 playerY=19 itemX=0 itemY=5
+UPDATE → itemMove x=0 y=6
+CHECK → playerX=6 playerY=19 itemX=0 itemY=6
+INPUT → key=LeftArrow playerX=6 playerY=19
+MOVE → playerX=5 playerY=19
+UPDATE → itemMove x=0 y=7
+CHECK → playerX=5 playerY=19 itemX=0 itemY=7
+UPDATE → itemMove x=0 y=8
+CHECK → playerX=5 playerY=19 itemX=0 itemY=8
+INPUT → key=LeftArrow playerX=5 playerY=19
+MOVE → playerX=4 playerY=19
+UPDATE → itemMove x=0 y=9
+CHECK → playerX=4 playerY=19 itemX=0 itemY=9
+UPDATE → itemMove x=0 y=10
+CHECK → playerX=4 playerY=19 itemX=0 itemY=10
+INPUT → key=LeftArrow playerX=4 playerY=19
+MOVE → playerX=3 playerY=19
+UPDATE → itemMove x=0 y=11
+CHECK → playerX=3 playerY=19 itemX=0 itemY=11
+UPDATE → itemMove x=0 y=12
+CHECK → playerX=3 playerY=19 itemX=0 itemY=12
+INPUT → key=LeftArrow playerX=3 playerY=19
+MOVE → playerX=2 playerY=19
+UPDATE → itemMove x=0 y=13
+CHECK → playerX=2 playerY=19 itemX=0 itemY=13
+UPDATE → itemMove x=0 y=14
+CHECK → playerX=2 playerY=19 itemX=0 itemY=14
+UPDATE → itemMove x=0 y=15
+CHECK → playerX=2 playerY=19 itemX=0 itemY=15
+UPDATE → itemMove x=0 y=16
+CHECK → playerX=2 playerY=19 itemX=0 itemY=16
+INPUT → key=LeftArrow playerX=2 playerY=19
+MOVE → playerX=1 playerY=19
+UPDATE → itemMove x=0 y=17
+CHECK → playerX=1 playerY=19 itemX=0 itemY=17
+UPDATE → itemMove x=0 y=18
+CHECK → playerX=1 playerY=19 itemX=0 itemY=18
+UPDATE → itemMove x=0 y=19
+CHECK → playerX=1 playerY=19 itemX=0 itemY=19
+UPDATE → itemMove x=0 y=20
+CHECK → playerX=1 playerY=19 itemX=0 itemY=20
+UPDATE → itemSpawned x=11 y=0
+UPDATE → itemMove x=11 y=1
+CHECK → playerX=1 playerY=19 itemX=11 itemY=1
+UPDATE → itemMove x=11 y=2
+CHECK → playerX=1 playerY=19 itemX=11 itemY=2
+UPDATE → itemMove x=11 y=3
+CHECK → playerX=1 playerY=19 itemX=11 itemY=3
+UPDATE → itemMove x=11 y=4
+CHECK → playerX=1 playerY=19 itemX=11 itemY=4
+UPDATE → itemMove x=11 y=5
+CHECK → playerX=1 playerY=19 itemX=11 itemY=5
+INPUT → key=RightArrow playerX=1 playerY=19
+MOVE → playerX=2 playerY=19
+UPDATE → itemMove x=11 y=6
+CHECK → playerX=2 playerY=19 itemX=11 itemY=6
+UPDATE → itemMove x=11 y=7
+CHECK → playerX=2 playerY=19 itemX=11 itemY=7
+INPUT → key=RightArrow playerX=2 playerY=19
+MOVE → playerX=3 playerY=19
+UPDATE → itemMove x=11 y=8
+CHECK → playerX=3 playerY=19 itemX=11 itemY=8
+UPDATE → itemMove x=11 y=9
+CHECK → playerX=3 playerY=19 itemX=11 itemY=9
+INPUT → key=RightArrow playerX=3 playerY=19
+MOVE → playerX=4 playerY=19
+UPDATE → itemMove x=11 y=10
+CHECK → playerX=4 playerY=19 itemX=11 itemY=10
+UPDATE → itemMove x=11 y=11
+CHECK → playerX=4 playerY=19 itemX=11 itemY=11
+INPUT → key=RightArrow playerX=4 playerY=19
+MOVE → playerX=5 playerY=19
+UPDATE → itemMove x=11 y=12
+CHECK → playerX=5 playerY=19 itemX=11 itemY=12
+UPDATE → itemMove x=11 y=13
+CHECK → playerX=5 playerY=19 itemX=11 itemY=13
+UPDATE → itemMove x=11 y=14
+CHECK → playerX=5 playerY=19 itemX=11 itemY=14
+INPUT → key=RightArrow playerX=5 playerY=19
+MOVE → playerX=6 playerY=19
+UPDATE → itemMove x=11 y=15
+CHECK → playerX=6 playerY=19 itemX=11 itemY=15
+UPDATE → itemMove x=11 y=16
+CHECK → playerX=6 playerY=19 itemX=11 itemY=16
+INPUT → key=RightArrow playerX=6 playerY=19
+MOVE → playerX=7 playerY=19
+UPDATE → itemMove x=11 y=17
+CHECK → playerX=7 playerY=19 itemX=11 itemY=17
+UPDATE → itemMove x=11 y=18
+CHECK → playerX=7 playerY=19 itemX=11 itemY=18
+UPDATE → itemMove x=11 y=19
+CHECK → playerX=7 playerY=19 itemX=11 itemY=19
+UPDATE → itemMove x=11 y=20
+CHECK → playerX=7 playerY=19 itemX=11 itemY=20
+UPDATE → itemSpawned x=24 y=0
+UPDATE → itemMove x=24 y=1
+CHECK → playerX=7 playerY=19 itemX=24 itemY=1
+UPDATE → itemMove x=24 y=2
+CHECK → playerX=7 playerY=19 itemX=24 itemY=2
+UPDATE → itemMove x=24 y=3
+CHECK → playerX=7 playerY=19 itemX=24 itemY=3
+UPDATE → itemMove x=24 y=4
+CHECK → playerX=7 playerY=19 itemX=24 itemY=4
+INPUT → key=RightArrow playerX=7 playerY=19
+MOVE → playerX=8 playerY=19
+UPDATE → itemMove x=24 y=5
+CHECK → playerX=8 playerY=19 itemX=24 itemY=5
+UPDATE → itemMove x=24 y=6
+CHECK → playerX=8 playerY=19 itemX=24 itemY=6
+INPUT → key=RightArrow playerX=8 playerY=19
+MOVE → playerX=9 playerY=19
+UPDATE → itemMove x=24 y=7
+CHECK → playerX=9 playerY=19 itemX=24 itemY=7
+UPDATE → itemMove x=24 y=8
+CHECK → playerX=9 playerY=19 itemX=24 itemY=8
+INPUT → key=RightArrow playerX=9 playerY=19
+MOVE → playerX=10 playerY=19
+UPDATE → itemMove x=24 y=9
+CHECK → playerX=10 playerY=19 itemX=24 itemY=9
+UPDATE → itemMove x=24 y=10
+CHECK → playerX=10 playerY=19 itemX=24 itemY=10
+UPDATE → itemMove x=24 y=11
+CHECK → playerX=10 playerY=19 itemX=24 itemY=11
+INPUT → key=RightArrow playerX=10 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=24 y=12
+CHECK → playerX=11 playerY=19 itemX=24 itemY=12
+UPDATE → itemMove x=24 y=13
+CHECK → playerX=11 playerY=19 itemX=24 itemY=13
+INPUT → key=RightArrow playerX=11 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=24 y=14
+CHECK → playerX=12 playerY=19 itemX=24 itemY=14
+UPDATE → itemMove x=24 y=15
+CHECK → playerX=12 playerY=19 itemX=24 itemY=15
+INPUT → key=RightArrow playerX=12 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=24 y=16
+CHECK → playerX=13 playerY=19 itemX=24 itemY=16
+UPDATE → itemMove x=24 y=17
+CHECK → playerX=13 playerY=19 itemX=24 itemY=17
+UPDATE → itemMove x=24 y=18
+CHECK → playerX=13 playerY=19 itemX=24 itemY=18
+UPDATE → itemMove x=24 y=19
+CHECK → playerX=13 playerY=19 itemX=24 itemY=19
+UPDATE → itemMove x=24 y=20
+CHECK → playerX=13 playerY=19 itemX=24 itemY=20
+UPDATE → itemSpawned x=32 y=0
+UPDATE → itemMove x=32 y=1
+CHECK → playerX=13 playerY=19 itemX=32 itemY=1
+UPDATE → itemMove x=32 y=2
+CHECK → playerX=13 playerY=19 itemX=32 itemY=2
+UPDATE → itemMove x=32 y=3
+CHECK → playerX=13 playerY=19 itemX=32 itemY=3
+UPDATE → itemMove x=32 y=4
+CHECK → playerX=13 playerY=19 itemX=32 itemY=4
+INPUT → key=RightArrow playerX=13 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=32 y=5
+CHECK → playerX=14 playerY=19 itemX=32 itemY=5
+UPDATE → itemMove x=32 y=6
+CHECK → playerX=14 playerY=19 itemX=32 itemY=6
+INPUT → key=RightArrow playerX=14 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=32 y=7
+CHECK → playerX=15 playerY=19 itemX=32 itemY=7
+UPDATE → itemMove x=32 y=8
+CHECK → playerX=15 playerY=19 itemX=32 itemY=8
+UPDATE → itemMove x=32 y=9
+CHECK → playerX=15 playerY=19 itemX=32 itemY=9
+UPDATE → itemMove x=32 y=10
+CHECK → playerX=15 playerY=19 itemX=32 itemY=10
+INPUT → key=RightArrow playerX=15 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=32 y=11
+CHECK → playerX=16 playerY=19 itemX=32 itemY=11
+UPDATE → itemMove x=32 y=12
+CHECK → playerX=16 playerY=19 itemX=32 itemY=12
+UPDATE → itemMove x=32 y=13
+CHECK → playerX=16 playerY=19 itemX=32 itemY=13
+INPUT → key=RightArrow playerX=16 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=32 y=14
+CHECK → playerX=17 playerY=19 itemX=32 itemY=14
+UPDATE → itemMove x=32 y=15
+CHECK → playerX=17 playerY=19 itemX=32 itemY=15
+UPDATE → itemMove x=32 y=16
+CHECK → playerX=17 playerY=19 itemX=32 itemY=16
+UPDATE → itemMove x=32 y=17
+CHECK → playerX=17 playerY=19 itemX=32 itemY=17
+UPDATE → itemMove x=32 y=18
+CHECK → playerX=17 playerY=19 itemX=32 itemY=18
+UPDATE → itemMove x=32 y=19
+CHECK → playerX=17 playerY=19 itemX=32 itemY=19
+UPDATE → itemMove x=32 y=20
+CHECK → playerX=17 playerY=19 itemX=32 itemY=20
+UPDATE → itemSpawned x=38 y=0
+UPDATE → itemMove x=38 y=1
+CHECK → playerX=17 playerY=19 itemX=38 itemY=1
+UPDATE → itemMove x=38 y=2
+CHECK → playerX=17 playerY=19 itemX=38 itemY=2
+UPDATE → itemMove x=38 y=3
+CHECK → playerX=17 playerY=19 itemX=38 itemY=3
+INPUT → key=RightArrow playerX=17 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=38 y=4
+CHECK → playerX=18 playerY=19 itemX=38 itemY=4
+UPDATE → itemMove x=38 y=5
+CHECK → playerX=18 playerY=19 itemX=38 itemY=5
+UPDATE → itemMove x=38 y=6
+CHECK → playerX=18 playerY=19 itemX=38 itemY=6
+UPDATE → itemMove x=38 y=7
+CHECK → playerX=18 playerY=19 itemX=38 itemY=7
+UPDATE → itemMove x=38 y=8
+CHECK → playerX=18 playerY=19 itemX=38 itemY=8
+INPUT → key=RightArrow playerX=18 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=38 y=9
+CHECK → playerX=19 playerY=19 itemX=38 itemY=9
+UPDATE → itemMove x=38 y=10
+CHECK → playerX=19 playerY=19 itemX=38 itemY=10
+UPDATE → itemMove x=38 y=11
+CHECK → playerX=19 playerY=19 itemX=38 itemY=11
+UPDATE → itemMove x=38 y=12
+CHECK → playerX=19 playerY=19 itemX=38 itemY=12
+UPDATE → itemMove x=38 y=13
+CHECK → playerX=19 playerY=19 itemX=38 itemY=13
+UPDATE → itemMove x=38 y=14
+CHECK → playerX=19 playerY=19 itemX=38 itemY=14
+UPDATE → itemMove x=38 y=15
+CHECK → playerX=19 playerY=19 itemX=38 itemY=15
+UPDATE → itemMove x=38 y=16
+CHECK → playerX=19 playerY=19 itemX=38 itemY=16
+UPDATE → itemMove x=38 y=17
+CHECK → playerX=19 playerY=19 itemX=38 itemY=17
+UPDATE → itemMove x=38 y=18
+CHECK → playerX=19 playerY=19 itemX=38 itemY=18
+UPDATE → itemMove x=38 y=19
+CHECK → playerX=19 playerY=19 itemX=38 itemY=19
+UPDATE → itemMove x=38 y=20
+CHECK → playerX=19 playerY=19 itemX=38 itemY=20
+UPDATE → itemSpawned x=9 y=0
+UPDATE → itemMove x=9 y=1
+CHECK → playerX=19 playerY=19 itemX=9 itemY=1
+UPDATE → itemMove x=9 y=2
+CHECK → playerX=19 playerY=19 itemX=9 itemY=2
+UPDATE → itemMove x=9 y=3
+CHECK → playerX=19 playerY=19 itemX=9 itemY=3
+UPDATE → itemMove x=9 y=4
+CHECK → playerX=19 playerY=19 itemX=9 itemY=4
+INPUT → key=LeftArrow playerX=19 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=9 y=5
+CHECK → playerX=18 playerY=19 itemX=9 itemY=5
+UPDATE → itemMove x=9 y=6
+CHECK → playerX=18 playerY=19 itemX=9 itemY=6
+INPUT → key=LeftArrow playerX=18 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=9 y=7
+CHECK → playerX=17 playerY=19 itemX=9 itemY=7
+UPDATE → itemMove x=9 y=8
+CHECK → playerX=17 playerY=19 itemX=9 itemY=8
+INPUT → key=LeftArrow playerX=17 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=9 y=9
+CHECK → playerX=16 playerY=19 itemX=9 itemY=9
+UPDATE → itemMove x=9 y=10
+CHECK → playerX=16 playerY=19 itemX=9 itemY=10
+INPUT → key=LeftArrow playerX=16 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=9 y=11
+CHECK → playerX=15 playerY=19 itemX=9 itemY=11
+INPUT → key=LeftArrow playerX=15 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=9 y=12
+CHECK → playerX=14 playerY=19 itemX=9 itemY=12
+UPDATE → itemMove x=9 y=13
+CHECK → playerX=14 playerY=19 itemX=9 itemY=13
+INPUT → key=LeftArrow playerX=14 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=9 y=14
+CHECK → playerX=13 playerY=19 itemX=9 itemY=14
+UPDATE → itemMove x=9 y=15
+CHECK → playerX=13 playerY=19 itemX=9 itemY=15
+INPUT → key=LeftArrow playerX=13 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=9 y=16
+CHECK → playerX=12 playerY=19 itemX=9 itemY=16
+INPUT → key=LeftArrow playerX=12 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=9 y=17
+CHECK → playerX=11 playerY=19 itemX=9 itemY=17
+UPDATE → itemMove x=9 y=18
+CHECK → playerX=11 playerY=19 itemX=9 itemY=18
+INPUT → key=LeftArrow playerX=11 playerY=19
+MOVE → playerX=10 playerY=19
+UPDATE → itemMove x=9 y=19
+CHECK → playerX=10 playerY=19 itemX=9 itemY=19
+UPDATE → itemMove x=9 y=20
+CHECK → playerX=10 playerY=19 itemX=9 itemY=20
+UPDATE → itemSpawned x=7 y=0
+UPDATE → itemMove x=7 y=1
+CHECK → playerX=10 playerY=19 itemX=7 itemY=1
+UPDATE → itemMove x=7 y=2
+CHECK → playerX=10 playerY=19 itemX=7 itemY=2
+INPUT → key=LeftArrow playerX=10 playerY=19
+MOVE → playerX=9 playerY=19
+UPDATE → itemMove x=7 y=3
+CHECK → playerX=9 playerY=19 itemX=7 itemY=3
+UPDATE → itemMove x=7 y=4
+CHECK → playerX=9 playerY=19 itemX=7 itemY=4
+UPDATE → itemMove x=7 y=5
+CHECK → playerX=9 playerY=19 itemX=7 itemY=5
+INPUT → key=LeftArrow playerX=9 playerY=19
+MOVE → playerX=8 playerY=19
+UPDATE → itemMove x=7 y=6
+CHECK → playerX=8 playerY=19 itemX=7 itemY=6
+UPDATE → itemMove x=7 y=7
+CHECK → playerX=8 playerY=19 itemX=7 itemY=7
+INPUT → key=LeftArrow playerX=8 playerY=19
+MOVE → playerX=7 playerY=19
+UPDATE → itemMove x=7 y=8
+CHECK → playerX=7 playerY=19 itemX=7 itemY=8
+UPDATE → itemMove x=7 y=9
+CHECK → playerX=7 playerY=19 itemX=7 itemY=9
+UPDATE → itemMove x=7 y=10
+CHECK → playerX=7 playerY=19 itemX=7 itemY=10
+UPDATE → itemMove x=7 y=11
+CHECK → playerX=7 playerY=19 itemX=7 itemY=11
+UPDATE → itemMove x=7 y=12
+CHECK → playerX=7 playerY=19 itemX=7 itemY=12
+UPDATE → itemMove x=7 y=13
+CHECK → playerX=7 playerY=19 itemX=7 itemY=13
+UPDATE → itemMove x=7 y=14
+CHECK → playerX=7 playerY=19 itemX=7 itemY=14
+UPDATE → itemMove x=7 y=15
+CHECK → playerX=7 playerY=19 itemX=7 itemY=15
+UPDATE → itemMove x=7 y=16
+CHECK → playerX=7 playerY=19 itemX=7 itemY=16
+UPDATE → itemMove x=7 y=17
+CHECK → playerX=7 playerY=19 itemX=7 itemY=17
+UPDATE → itemMove x=7 y=18
+CHECK → playerX=7 playerY=19 itemX=7 itemY=18
+INPUT → key=LeftArrow playerX=7 playerY=19
+MOVE → playerX=6 playerY=19
+UPDATE → itemMove x=7 y=19
+CHECK → playerX=6 playerY=19 itemX=7 itemY=19
+UPDATE → itemMove x=7 y=20
+CHECK → playerX=6 playerY=19 itemX=7 itemY=20
+UPDATE → itemSpawned x=27 y=0
+UPDATE → itemMove x=27 y=1
+CHECK → playerX=6 playerY=19 itemX=27 itemY=1
+UPDATE → itemMove x=27 y=2
+CHECK → playerX=6 playerY=19 itemX=27 itemY=2
+INPUT → key=RightArrow playerX=6 playerY=19
+MOVE → playerX=7 playerY=19
+UPDATE → itemMove x=27 y=3
+CHECK → playerX=7 playerY=19 itemX=27 itemY=3
+UPDATE → itemMove x=27 y=4
+CHECK → playerX=7 playerY=19 itemX=27 itemY=4
+UPDATE → itemMove x=27 y=5
+CHECK → playerX=7 playerY=19 itemX=27 itemY=5
+UPDATE → itemMove x=27 y=6
+CHECK → playerX=7 playerY=19 itemX=27 itemY=6
+INPUT → key=RightArrow playerX=7 playerY=19
+MOVE → playerX=8 playerY=19
+UPDATE → itemMove x=27 y=7
+CHECK → playerX=8 playerY=19 itemX=27 itemY=7
+UPDATE → itemMove x=27 y=8
+CHECK → playerX=8 playerY=19 itemX=27 itemY=8
+UPDATE → itemMove x=27 y=9
+CHECK → playerX=8 playerY=19 itemX=27 itemY=9
+INPUT → key=RightArrow playerX=8 playerY=19
+MOVE → playerX=9 playerY=19
+UPDATE → itemMove x=27 y=10
+CHECK → playerX=9 playerY=19 itemX=27 itemY=10
+UPDATE → itemMove x=27 y=11
+CHECK → playerX=9 playerY=19 itemX=27 itemY=11
+UPDATE → itemMove x=27 y=12
+CHECK → playerX=9 playerY=19 itemX=27 itemY=12
+UPDATE → itemMove x=27 y=13
+CHECK → playerX=9 playerY=19 itemX=27 itemY=13
+UPDATE → itemMove x=27 y=14
+CHECK → playerX=9 playerY=19 itemX=27 itemY=14
+UPDATE → itemMove x=27 y=15
+CHECK → playerX=9 playerY=19 itemX=27 itemY=15
+UPDATE → itemMove x=27 y=16
+CHECK → playerX=9 playerY=19 itemX=27 itemY=16
+UPDATE → itemMove x=27 y=17
+CHECK → playerX=9 playerY=19 itemX=27 itemY=17
+UPDATE → itemMove x=27 y=18
+CHECK → playerX=9 playerY=19 itemX=27 itemY=18
+UPDATE → itemMove x=27 y=19
+CHECK → playerX=9 playerY=19 itemX=27 itemY=19
+UPDATE → itemMove x=27 y=20
+CHECK → playerX=9 playerY=19 itemX=27 itemY=20
+UPDATE → itemSpawned x=30 y=0
+UPDATE → itemMove x=30 y=1
+CHECK → playerX=9 playerY=19 itemX=30 itemY=1
+INPUT → key=RightArrow playerX=9 playerY=19
+MOVE → playerX=10 playerY=19
+UPDATE → itemMove x=30 y=2
+CHECK → playerX=10 playerY=19 itemX=30 itemY=2
+UPDATE → itemMove x=30 y=3
+CHECK → playerX=10 playerY=19 itemX=30 itemY=3
+UPDATE → itemMove x=30 y=4
+CHECK → playerX=10 playerY=19 itemX=30 itemY=4
+INPUT → key=RightArrow playerX=10 playerY=19
+MOVE → playerX=11 playerY=19
+UPDATE → itemMove x=30 y=5
+CHECK → playerX=11 playerY=19 itemX=30 itemY=5
+UPDATE → itemMove x=30 y=6
+CHECK → playerX=11 playerY=19 itemX=30 itemY=6
+UPDATE → itemMove x=30 y=7
+CHECK → playerX=11 playerY=19 itemX=30 itemY=7
+INPUT → key=RightArrow playerX=11 playerY=19
+MOVE → playerX=12 playerY=19
+UPDATE → itemMove x=30 y=8
+CHECK → playerX=12 playerY=19 itemX=30 itemY=8
+INPUT → key=RightArrow playerX=12 playerY=19
+MOVE → playerX=13 playerY=19
+UPDATE → itemMove x=30 y=9
+CHECK → playerX=13 playerY=19 itemX=30 itemY=9
+UPDATE → itemMove x=30 y=10
+CHECK → playerX=13 playerY=19 itemX=30 itemY=10
+UPDATE → itemMove x=30 y=11
+CHECK → playerX=13 playerY=19 itemX=30 itemY=11
+UPDATE → itemMove x=30 y=12
+CHECK → playerX=13 playerY=19 itemX=30 itemY=12
+UPDATE → itemMove x=30 y=13
+CHECK → playerX=13 playerY=19 itemX=30 itemY=13
+UPDATE → itemMove x=30 y=14
+CHECK → playerX=13 playerY=19 itemX=30 itemY=14
+UPDATE → itemMove x=30 y=15
+CHECK → playerX=13 playerY=19 itemX=30 itemY=15
+UPDATE → itemMove x=30 y=16
+CHECK → playerX=13 playerY=19 itemX=30 itemY=16
+UPDATE → itemMove x=30 y=17
+CHECK → playerX=13 playerY=19 itemX=30 itemY=17
+UPDATE → itemMove x=30 y=18
+CHECK → playerX=13 playerY=19 itemX=30 itemY=18
+UPDATE → itemMove x=30 y=19
+CHECK → playerX=13 playerY=19 itemX=30 itemY=19
+UPDATE → itemMove x=30 y=20
+CHECK → playerX=13 playerY=19 itemX=30 itemY=20
+UPDATE → itemSpawned x=23 y=0
+UPDATE → itemMove x=23 y=1
+CHECK → playerX=13 playerY=19 itemX=23 itemY=1
+UPDATE → itemMove x=23 y=2
+CHECK → playerX=13 playerY=19 itemX=23 itemY=2
+UPDATE → itemMove x=23 y=3
+CHECK → playerX=13 playerY=19 itemX=23 itemY=3
+UPDATE → itemMove x=23 y=4
+CHECK → playerX=13 playerY=19 itemX=23 itemY=4
+INPUT → key=RightArrow playerX=13 playerY=19
+MOVE → playerX=14 playerY=19
+UPDATE → itemMove x=23 y=5
+CHECK → playerX=14 playerY=19 itemX=23 itemY=5
+UPDATE → itemMove x=23 y=6
+CHECK → playerX=14 playerY=19 itemX=23 itemY=6
+INPUT → key=RightArrow playerX=14 playerY=19
+MOVE → playerX=15 playerY=19
+UPDATE → itemMove x=23 y=7
+CHECK → playerX=15 playerY=19 itemX=23 itemY=7
+UPDATE → itemMove x=23 y=8
+CHECK → playerX=15 playerY=19 itemX=23 itemY=8
+INPUT → key=RightArrow playerX=15 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=23 y=9
+CHECK → playerX=16 playerY=19 itemX=23 itemY=9
+UPDATE → itemMove x=23 y=10
+CHECK → playerX=16 playerY=19 itemX=23 itemY=10
+UPDATE → itemMove x=23 y=11
+CHECK → playerX=16 playerY=19 itemX=23 itemY=11
+INPUT → key=RightArrow playerX=16 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=23 y=12
+CHECK → playerX=17 playerY=19 itemX=23 itemY=12
+UPDATE → itemMove x=23 y=13
+CHECK → playerX=17 playerY=19 itemX=23 itemY=13
+INPUT → key=RightArrow playerX=17 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=23 y=14
+CHECK → playerX=18 playerY=19 itemX=23 itemY=14
+UPDATE → itemMove x=23 y=15
+CHECK → playerX=18 playerY=19 itemX=23 itemY=15
+INPUT → key=RightArrow playerX=18 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=23 y=16
+CHECK → playerX=19 playerY=19 itemX=23 itemY=16
+UPDATE → itemMove x=23 y=17
+CHECK → playerX=19 playerY=19 itemX=23 itemY=17
+UPDATE → itemMove x=23 y=18
+CHECK → playerX=19 playerY=19 itemX=23 itemY=18
+INPUT → key=RightArrow playerX=19 playerY=19
+MOVE → playerX=20 playerY=19
+UPDATE → itemMove x=23 y=19
+CHECK → playerX=20 playerY=19 itemX=23 itemY=19
+UPDATE → itemMove x=23 y=20
+CHECK → playerX=20 playerY=19 itemX=23 itemY=20
+UPDATE → itemSpawned x=28 y=0
+UPDATE → itemMove x=28 y=1
+CHECK → playerX=20 playerY=19 itemX=28 itemY=1
+UPDATE → itemMove x=28 y=2
+CHECK → playerX=20 playerY=19 itemX=28 itemY=2
+UPDATE → itemMove x=28 y=3
+CHECK → playerX=20 playerY=19 itemX=28 itemY=3
+UPDATE → itemMove x=28 y=4
+CHECK → playerX=20 playerY=19 itemX=28 itemY=4
+INPUT → key=RightArrow playerX=20 playerY=19
+MOVE → playerX=21 playerY=19
+UPDATE → itemMove x=28 y=5
+CHECK → playerX=21 playerY=19 itemX=28 itemY=5
+UPDATE → itemMove x=28 y=6
+CHECK → playerX=21 playerY=19 itemX=28 itemY=6
+UPDATE → itemMove x=28 y=7
+CHECK → playerX=21 playerY=19 itemX=28 itemY=7
+INPUT → key=RightArrow playerX=21 playerY=19
+MOVE → playerX=22 playerY=19
+UPDATE → itemMove x=28 y=8
+CHECK → playerX=22 playerY=19 itemX=28 itemY=8
+UPDATE → itemMove x=28 y=9
+CHECK → playerX=22 playerY=19 itemX=28 itemY=9
+INPUT → key=RightArrow playerX=22 playerY=19
+MOVE → playerX=23 playerY=19
+UPDATE → itemMove x=28 y=10
+CHECK → playerX=23 playerY=19 itemX=28 itemY=10
+UPDATE → itemMove x=28 y=11
+CHECK → playerX=23 playerY=19 itemX=28 itemY=11
+INPUT → key=RightArrow playerX=23 playerY=19
+MOVE → playerX=24 playerY=19
+UPDATE → itemMove x=28 y=12
+CHECK → playerX=24 playerY=19 itemX=28 itemY=12
+UPDATE → itemMove x=28 y=13
+CHECK → playerX=24 playerY=19 itemX=28 itemY=13
+INPUT → key=RightArrow playerX=24 playerY=19
+MOVE → playerX=25 playerY=19
+UPDATE → itemMove x=28 y=14
+CHECK → playerX=25 playerY=19 itemX=28 itemY=14
+UPDATE → itemMove x=28 y=15
+CHECK → playerX=25 playerY=19 itemX=28 itemY=15
+INPUT → key=RightArrow playerX=25 playerY=19
+MOVE → playerX=26 playerY=19
+UPDATE → itemMove x=28 y=16
+CHECK → playerX=26 playerY=19 itemX=28 itemY=16
+UPDATE → itemMove x=28 y=17
+CHECK → playerX=26 playerY=19 itemX=28 itemY=17
+INPUT → key=RightArrow playerX=26 playerY=19
+MOVE → playerX=27 playerY=19
+UPDATE → itemMove x=28 y=18
+CHECK → playerX=27 playerY=19 itemX=28 itemY=18
+UPDATE → itemMove x=28 y=19
+CHECK → playerX=27 playerY=19 itemX=28 itemY=19
+UPDATE → itemMove x=28 y=20
+CHECK → playerX=27 playerY=19 itemX=28 itemY=20
+UPDATE → itemSpawned x=7 y=0
+UPDATE → itemMove x=7 y=1
+CHECK → playerX=27 playerY=19 itemX=7 itemY=1
+UPDATE → itemMove x=7 y=2
+CHECK → playerX=27 playerY=19 itemX=7 itemY=2
+UPDATE → itemMove x=7 y=3
+CHECK → playerX=27 playerY=19 itemX=7 itemY=3
+UPDATE → itemMove x=7 y=4
+CHECK → playerX=27 playerY=19 itemX=7 itemY=4
+INPUT → key=LeftArrow playerX=27 playerY=19
+MOVE → playerX=26 playerY=19
+UPDATE → itemMove x=7 y=5
+CHECK → playerX=26 playerY=19 itemX=7 itemY=5
+UPDATE → itemMove x=7 y=6
+CHECK → playerX=26 playerY=19 itemX=7 itemY=6
+UPDATE → itemMove x=7 y=7
+CHECK → playerX=26 playerY=19 itemX=7 itemY=7
+UPDATE → itemMove x=7 y=8
+CHECK → playerX=26 playerY=19 itemX=7 itemY=8
+UPDATE → itemMove x=7 y=9
+CHECK → playerX=26 playerY=19 itemX=7 itemY=9
+UPDATE → itemMove x=7 y=10
+CHECK → playerX=26 playerY=19 itemX=7 itemY=10
+INPUT → key=LeftArrow playerX=26 playerY=19
+MOVE → playerX=25 playerY=19
+UPDATE → itemMove x=7 y=11
+CHECK → playerX=25 playerY=19 itemX=7 itemY=11
+UPDATE → itemMove x=7 y=12
+CHECK → playerX=25 playerY=19 itemX=7 itemY=12
+INPUT → key=LeftArrow playerX=25 playerY=19
+MOVE → playerX=24 playerY=19
+UPDATE → itemMove x=7 y=13
+CHECK → playerX=24 playerY=19 itemX=7 itemY=13
+UPDATE → itemMove x=7 y=14
+CHECK → playerX=24 playerY=19 itemX=7 itemY=14
+INPUT → key=LeftArrow playerX=24 playerY=19
+MOVE → playerX=23 playerY=19
+UPDATE → itemMove x=7 y=15
+CHECK → playerX=23 playerY=19 itemX=7 itemY=15
+UPDATE → itemMove x=7 y=16
+CHECK → playerX=23 playerY=19 itemX=7 itemY=16
+INPUT → key=LeftArrow playerX=23 playerY=19
+MOVE → playerX=22 playerY=19
+UPDATE → itemMove x=7 y=17
+CHECK → playerX=22 playerY=19 itemX=7 itemY=17
+UPDATE → itemMove x=7 y=18
+CHECK → playerX=22 playerY=19 itemX=7 itemY=18
+UPDATE → itemMove x=7 y=19
+CHECK → playerX=22 playerY=19 itemX=7 itemY=19
+UPDATE → itemMove x=7 y=20
+CHECK → playerX=22 playerY=19 itemX=7 itemY=20
+UPDATE → itemSpawned x=35 y=0
+UPDATE → itemMove x=35 y=1
+CHECK → playerX=22 playerY=19 itemX=35 itemY=1
+UPDATE → itemMove x=35 y=2
+CHECK → playerX=22 playerY=19 itemX=35 itemY=2
+UPDATE → itemMove x=35 y=3
+CHECK → playerX=22 playerY=19 itemX=35 itemY=3
+UPDATE → itemMove x=35 y=4
+CHECK → playerX=22 playerY=19 itemX=35 itemY=4
+INPUT → key=RightArrow playerX=22 playerY=19
+MOVE → playerX=23 playerY=19
+UPDATE → itemMove x=35 y=5
+CHECK → playerX=23 playerY=19 itemX=35 itemY=5
+UPDATE → itemMove x=35 y=6
+CHECK → playerX=23 playerY=19 itemX=35 itemY=6
+UPDATE → itemMove x=35 y=7
+CHECK → playerX=23 playerY=19 itemX=35 itemY=7
+UPDATE → itemMove x=35 y=8
+CHECK → playerX=23 playerY=19 itemX=35 itemY=8
+INPUT → key=RightArrow playerX=23 playerY=19
+MOVE → playerX=24 playerY=19
+UPDATE → itemMove x=35 y=9
+CHECK → playerX=24 playerY=19 itemX=35 itemY=9
+UPDATE → itemMove x=35 y=10
+CHECK → playerX=24 playerY=19 itemX=35 itemY=10
+UPDATE → itemMove x=35 y=11
+CHECK → playerX=24 playerY=19 itemX=35 itemY=11
+UPDATE → itemMove x=35 y=12
+CHECK → playerX=24 playerY=19 itemX=35 itemY=12
+UPDATE → itemMove x=35 y=13
+CHECK → playerX=24 playerY=19 itemX=35 itemY=13
+UPDATE → itemMove x=35 y=14
+CHECK → playerX=24 playerY=19 itemX=35 itemY=14
+UPDATE → itemMove x=35 y=15
+CHECK → playerX=24 playerY=19 itemX=35 itemY=15
+UPDATE → itemMove x=35 y=16
+CHECK → playerX=24 playerY=19 itemX=35 itemY=16
+UPDATE → itemMove x=35 y=17
+CHECK → playerX=24 playerY=19 itemX=35 itemY=17
+UPDATE → itemMove x=35 y=18
+CHECK → playerX=24 playerY=19 itemX=35 itemY=18
+INPUT → key=LeftArrow playerX=24 playerY=19
+MOVE → playerX=23 playerY=19
+UPDATE → itemMove x=35 y=19
+CHECK → playerX=23 playerY=19 itemX=35 itemY=19
+UPDATE → itemMove x=35 y=20
+CHECK → playerX=23 playerY=19 itemX=35 itemY=20
+UPDATE → itemSpawned x=16 y=0
+UPDATE → itemMove x=16 y=1
+CHECK → playerX=23 playerY=19 itemX=16 itemY=1
+INPUT → key=LeftArrow playerX=23 playerY=19
+MOVE → playerX=22 playerY=19
+UPDATE → itemMove x=16 y=2
+CHECK → playerX=22 playerY=19 itemX=16 itemY=2
+UPDATE → itemMove x=16 y=3
+CHECK → playerX=22 playerY=19 itemX=16 itemY=3
+INPUT → key=LeftArrow playerX=22 playerY=19
+MOVE → playerX=21 playerY=19
+UPDATE → itemMove x=16 y=4
+CHECK → playerX=21 playerY=19 itemX=16 itemY=4
+UPDATE → itemMove x=16 y=5
+CHECK → playerX=21 playerY=19 itemX=16 itemY=5
+INPUT → key=LeftArrow playerX=21 playerY=19
+MOVE → playerX=20 playerY=19
+UPDATE → itemMove x=16 y=6
+CHECK → playerX=20 playerY=19 itemX=16 itemY=6
+UPDATE → itemMove x=16 y=7
+CHECK → playerX=20 playerY=19 itemX=16 itemY=7
+INPUT → key=LeftArrow playerX=20 playerY=19
+MOVE → playerX=19 playerY=19
+UPDATE → itemMove x=16 y=8
+CHECK → playerX=19 playerY=19 itemX=16 itemY=8
+UPDATE → itemMove x=16 y=9
+CHECK → playerX=19 playerY=19 itemX=16 itemY=9
+INPUT → key=LeftArrow playerX=19 playerY=19
+MOVE → playerX=18 playerY=19
+UPDATE → itemMove x=16 y=10
+CHECK → playerX=18 playerY=19 itemX=16 itemY=10
+UPDATE → itemMove x=16 y=11
+CHECK → playerX=18 playerY=19 itemX=16 itemY=11
+INPUT → key=LeftArrow playerX=18 playerY=19
+MOVE → playerX=17 playerY=19
+UPDATE → itemMove x=16 y=12
+CHECK → playerX=17 playerY=19 itemX=16 itemY=12
+UPDATE → itemMove x=16 y=13
+CHECK → playerX=17 playerY=19 itemX=16 itemY=13
+UPDATE → itemMove x=16 y=14
+CHECK → playerX=17 playerY=19 itemX=16 itemY=14
+INPUT → key=LeftArrow playerX=17 playerY=19
+MOVE → playerX=16 playerY=19
+UPDATE → itemMove x=16 y=15
+CHECK → playerX=16 playerY=19 itemX=16 itemY=15
+UPDATE → itemMove x=16 y=16
+CHECK → playerX=16 playerY=19 itemX=16 itemY=16
+UPDATE → itemMove x=16 y=17
+CHECK → playerX=16 playerY=19 itemX=16 itemY=17
+UPDATE → itemMove x=16 y=18
+CHECK → playerX=16 playerY=19 itemX=16 itemY=18
+UPDATE → itemMove x=16 y=19
+CHECK → playerX=16 playerY=19 itemX=16 itemY=19
+COLLISION → score=10
+UPDATE → itemSpawned x=0 y=0
+GAMEOVER → score=10
